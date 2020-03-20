@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal01</defName>
+		<slot>Adulthood</slot>
+		<title>Caravan leader</title>
+		<titleShort>Trader</titleShort>
+		<baseDesc>NAME was the leader of a tribal trade caravan. Due to HIS nomadic lifestyle, HE hunted and bartered for HIS food.</baseDesc>
+		<skillGains>
+			<li><key>Shooting</key><value>5</value></li>
+			<li><key>Social</key><value>5</value></li>
+			<li><key>Growing</key><value>-3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Social</li>
+			<li>Violent</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal02</defName>
+		<slot>Adulthood</slot>
+		<title>Caravan member</title>
+		<titleShort>Nomad</titleShort>
+		<baseDesc>NAME was a member of a nomadic tribal trade caravan. HECAP was often tasked with caring for the pack animals. Because HE was able to barter or hunt for all of HIS food, HE never had to worry about growing or gathering food.</baseDesc>
+		<skillGains>
+			<li><key>Shooting</key><value>4</value></li>
+			<li><key>Social</key><value>3</value></li>
+			<li><key>Animals</key><value>5</value></li>
+			<li><key>Growing</key><value>-3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Social</li>
+			<li>Violent</li>
+			<li>Animals</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal03</defName>
+		<slot>Adulthood</slot>
+		<title>Carver</title>
+		<titleShort>Carver</titleShort>
+		<baseDesc>NAME was an expert at carving wood, stone, and bone into beautiful tools and art objects for HIS tribe. HISCAP beautiful handicrafts were traded frequently between local tribes.</baseDesc>
+		<skillGains>
+			<li><key>Construction</key><value>2</value></li>
+			<li><key>Crafting</key><value>5</value></li>
+			<li><key>Artistic</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>ManualSkilled</li>
+			<li>Artistic</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal04</defName>
+		<slot>Adulthood</slot>
+		<title>Tribal drummer</title>
+		<titleShort>Drummer</titleShort>
+		<baseDesc>NAME was a drummer for HIS tribe. HECAP performed songs for ceremonies and festivals.</baseDesc>
+		<skillGains>
+			<li><key>Artistic</key><value>6</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Artistic</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal05</defName>
+		<slot>Adulthood</slot>
+		<title>Tribal elder</title>
+		<titleShort>Elder</titleShort>
+		<baseDesc>Because of HIS wisdom and knowledge, NAME has become a highly respected Elder in his tribe. HECAP is looked to for their counsel and guidance by both young and old.</baseDesc>
+		<bodyTypeMale>Fat</bodyTypeMale>
+		<bodyTypeFemale>Fat</bodyTypeFemale>
+		<skillGains>
+			<li><key>Social</key><value>8</value></li>
+			<li><key>Intellectual</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Social</li>
+			<li>Intellectual</li>
+		</requiredWorkTags>
+		<workDisables>
+			<li>ManualDumb</li>
+			<li>Violent</li>
+		</workDisables>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal06</defName>
+		<slot>Adulthood</slot>
+		<title>Muffalo herder</title>
+		<titleShort>Herder</titleShort>
+		<baseDesc>NAME tended the tribe's muffalo herds, keeping them safe from predators and treating the sick. It was quiet work, but HE enjoyed being away from people.</baseDesc>
+		<skillGains>
+			<li><key>Animals</key><value>5</value></li>
+			<li><key>Social</key><value>-3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Animals</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal07</defName>
+		<slot>Adulthood</slot>
+		<title>Hunter</title>
+		<titleShort>Hunter</titleShort>
+		<baseDesc>NAME was a skilled hunter. HECAP learned to track and trap the most elusive of animals. HISCAP vast knowledge and skill kept HIS tribe from starving during many cold winters.</baseDesc>
+		<bodyTypeMale>Hulk</bodyTypeMale>
+		<bodyTypeFemale>Hulk</bodyTypeFemale>
+		<skillGains>
+			<li><key>Animals</key><value>4</value></li>
+			<li><key>Shooting</key><value>6</value></li>
+			<li><key>Melee</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Animals</li>
+			<li>Violent</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal08</defName>
+		<slot>Adulthood</slot>
+		<title>Tribal dancer</title>
+		<titleShort>Dancer</titleShort>
+		<baseDesc>NAME was a dancer for HIS tribe. HECAP performed for ceremonies and festivals.</baseDesc>
+		<skillGains>
+			<li><key>Artistic</key><value>5</value></li>
+			<li><key>Social</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Social</li>
+			<li>Artistic</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal09</defName>
+		<slot>Adulthood</slot>
+		<title>Longhouse builder</title>
+		<titleShort>Builder</titleShort>
+		<baseDesc>NAME was renowned for his skill in building sturdy longhouses and roomy lodges for his tribe.</baseDesc>
+		<skillGains>
+			<li><key>Construction</key><value>5</value></li>
+			<li><key>Crafting</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>ManualSkilled</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal10</defName>
+		<slot>Adulthood</slot>
+		<title>Tribal captive</title>
+		<titleShort>Captive</titleShort>
+		<baseDesc>NAME was taken captive by an enemy tribe during a raid. HECAP was forced to do hard manual labour. Over time HIS new tribe became like family and HE was adopted as one of their own.</baseDesc>
+		<skillGains>
+			<li><key>Growing</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>ManualDumb</li>
+			<li>PlantWork</li>
+		</requiredWorkTags>
+		<workDisables>
+			<li>Violent</li>
+		</workDisables>
+		<spawnCategories>
+			<li>Tribal</li>
+			<li>Uncommon</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal11</defName>
+		<slot>Adulthood</slot>
+		<title>Fire tender</title>
+		<titleShort>Tender</titleShort>
+		<baseDesc>Tasked with keeping the home fires burning while the others were out hunting and gathering, NAME also cooked and cared for the young and sick.</baseDesc>
+		<bodyTypeMale>Thin</bodyTypeMale>
+		<bodyTypeFemale>Thin</bodyTypeFemale>
+		<skillGains>
+			<li><key>Cooking</key><value>5</value></li>
+			<li><key>Medicine</key><value>3</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Cooking</li>
+			<li>Caring</li>
+		</requiredWorkTags>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+	
+	<REB_Code.BackstoryDef>
+		<defName>RueTribal12</defName>
+		<slot>Adulthood</slot>
+		<title>Tribal chief</title>
+		<titleShort>Chief</titleShort>
+		<baseDesc>NAME is a respected Chief in HIS tribe. HECAP is a brave and strong leader.</baseDesc>
+		<bodyTypeMale>Hulk</bodyTypeMale>
+		<bodyTypeFemale>Hulk</bodyTypeFemale>
+		<skillGains>
+			<li><key>Social</key><value>5</value></li>
+			<li><key>Shooting</key><value>5</value></li>
+		</skillGains>
+		<requiredWorkTags>
+			<li>Social</li>
+			<li>Violent</li>
+		</requiredWorkTags>
+		<workDisables>
+			<li>ManualDumb</li>
+		</workDisables>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+</Defs>

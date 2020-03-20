@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Minimum Age</name>
+  <author>The13thRonin</author>
+  <targetVersion>0.18.1722</targetVersion>
+  <description>Makes the minimum age of pawns 20.
+  </description>
+</ModMetaData>

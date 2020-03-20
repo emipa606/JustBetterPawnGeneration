@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+    <Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationAdd">
+				<xpath>Defs/PawnKindDef[not(@ParentName) and race="Human" or @Name="OutlanderBase"]</xpath>
+					<value>
+						<minGenerationAge>20</minGenerationAge>
+					</value>
+			</li>
+		</operations>
+	</Operation>
+
+</Patch>

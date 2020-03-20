@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC01</defName>
+		<slot>Childhood</slot>
+		<title>Abandoned child</title>
+		<titleShort>Abandoned</titleShort>
+		<baseDesc>NAME was born sickly. Thinking that HE would only burden the tribe, HIS parents left HIM out in the elements. Somehow, HE survived.</baseDesc>
+		<skillGains>
+			<li><key>Melee</key><value>3</value></li>
+			<li><key>Crafting</key><value>3</value></li>
+			<li><key>Social</key><value>-2</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+		<bodyTypeMale>Male</bodyTypeMale>
+		<bodyTypeFemale>Female</bodyTypeFemale>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC02</defName>
+		<slot>Childhood</slot>
+		<title>Cave child</title>
+		<titleShort>Cave</titleShort>
+		<baseDesc>NAME grew up in a large and intricate cave complex that extended deep into a mountainside. HECAP helped the adults maintain and improve the deep caves.</baseDesc>
+		<skillGains>
+			<li><key>Mining</key><value>3</value></li>
+			<li><key>Construction</key><value>3</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC03</defName>
+		<slot>Childhood</slot>
+		<title>Fire tender</title>
+		<titleShort>Fire</titleShort>
+		<baseDesc>In HIS childhood, NAME was responsible for keeping the tribe's fire going. HECAP took this responsibility very seriously.</baseDesc>
+		<skillGains>
+			<li><key>Crafting</key><value>2</value></li>
+			<li><key>Cooking</key><value>2</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC04</defName>
+		<slot>Childhood</slot>
+		<title>Herder</title>
+		<titleShort>Herder</titleShort>
+		<baseDesc>As a child, NAME tended the tribe's muffalo herds, keeping them safe from predators and treating the sick. It was quiet work, but HE enjoyed being away from people.</baseDesc>
+		<skillGains>
+			<li><key>Medicine</key><value>3</value></li>
+			<li><key>Melee</key><value>3</value></li>
+			<li><key>Social</key><value>-2</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC05</defName>
+		<slot>Childhood</slot>
+		<title>Reclusive child</title>
+		<titleShort>Reclusive</titleShort>
+		<baseDesc>NAME didn't learn to speak until HE was nearly 5 years old, and, even then, HE preferred to keep to HIMself. When HE was in HIS early teens, HE made a habit of wandering off from the village to live in the wilderness for weeks at a time.</baseDesc>
+		<workDisables>
+			<li>Social</li>
+		</workDisables>
+		<skillGains>
+			<li><key>Melee</key><value>4</value></li>
+			<li><key>Crafting</key><value>3</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC06</defName>
+		<slot>Childhood</slot>
+		<title>Scavenger</title>
+		<titleShort>Scavenger</titleShort>
+		<baseDesc>NAME spent HIS childhood escaping grunt work to go digging through wrecks and ruins for treasures. HISCAP natural curiosity got HIM into a lot of trouble, but it also yielded many interesting finds.</baseDesc>
+		<workDisables>
+			<li>ManualDumb</li>
+		</workDisables>
+		<skillGains>
+			<li><key>Mining</key><value>3</value></li>
+			<li><key>Intellectual</key><value>3</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC07</defName>
+		<slot>Childhood</slot>
+		<title>Sole survivor</title>
+		<titleShort>Survivor</titleShort>
+		<baseDesc>NAME's entire tribe was wiped out in a raid. Though HE was adopted by another group, HE was emotionally scarred, and preferred to stay near home, cooking and tending crops.</baseDesc>
+		<workDisables>
+			<li>Firefighting</li>
+			<li>Violent</li>
+		</workDisables>
+		<skillGains>
+			<li><key>Growing</key><value>3</value></li>
+			<li><key>Cooking</key><value>3</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC08</defName>
+		<slot>Childhood</slot>
+		<title>Tribe child</title>
+		<titleShort>Tribal</titleShort>
+		<baseDesc>NAME grew up in the tribe, running around the village, moving with the muffalo herds, learning essential skills from HIS parents. HECAP never learned to read and never saw a machine that wasn't an ancient ruin.</baseDesc>
+		<skillGains>
+			<li><key>Growing</key><value>2</value></li>
+			<li><key>Melee</key><value>2</value></li>
+			<li><key>Shooting</key><value>2</value></li>
+			<li><key>Intellectual</key><value>-3</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+	<REB_Code.BackstoryDef>
+		<defName>TribalC09</defName>
+		<slot>Childhood</slot>
+		<title>Vengeful child</title>
+		<titleShort>Vengeful</titleShort>
+		<baseDesc>As a child, NAME returned to HIS village to find that it had been wiped out by bandits. HECAP swore revenge on the attackers and began a violent rampage across the wilderness.</baseDesc>
+		<workDisables>
+			<li>Caring</li>
+		</workDisables>
+		<skillGains>
+			<li><key>Melee</key><value>3</value></li>
+			<li><key>Shooting</key><value>3</value></li>
+		</skillGains>
+		<spawnCategories>
+			<li>Tribal</li>
+		</spawnCategories>
+	</REB_Code.BackstoryDef>
+
+</Defs>

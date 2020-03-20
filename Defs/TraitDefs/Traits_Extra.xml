@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<TraitDef>
+		<defName>SilverTongued</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>silver-tongued</label>
+				<description>NAME has a silver tongue and HE is good at convincing others to get what HE wants.</description>
+				<statOffsets>
+					<NegotiationAbility>0.10</NegotiationAbility>
+					<TradePriceImprovement>0.25</TradePriceImprovement>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>Academic</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>academic</label>
+				<description>NAME is a bit of an egg-head. HE is more scientifically minded than most other colonists.</description>
+				<statOffsets>
+					<ResearchSpeed>0.25</ResearchSpeed>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>Butcher</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>butcher</label>
+				<description>NAME knows HIS way around a cleaver. HE can minimize wastage when butchering carcasses.</description>
+				<statOffsets>
+					<ButcheryFleshEfficiency>0.25</ButcheryFleshEfficiency>
+					<ButcheryFleshSpeed>0.25</ButcheryFleshSpeed>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>RadiationResistant</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>radiation resistant</label>
+				<description>NAME's genetics make HIM more resistant to radiation than normal.</description>
+				<statOffsets>
+					<ToxicSensitivity>-0.3</ToxicSensitivity>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>HighPainTolerance</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>high pain tolerance</label>
+				<description>NAME has an unusually high tolerance of pain. It takes a lot to bring HIM down.</description>
+				<statOffsets>
+					<PainShockThreshold>0.50</PainShockThreshold>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>Sculptor</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>sculptor</label>
+				<description>NAME is a natural at carving various materials.</description>
+				<statOffsets>
+					<SculptingSpeed>0.25</SculptingSpeed>
+					<SmoothingSpeed>0.25</SmoothingSpeed>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>	
+
+	<TraitDef>
+		<defName>AnimalWhisperer</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>animal whisperer</label>
+				<description>NAME is a natural at caring for animals. HE always manages to get the most out of livestock.</description>
+				<statOffsets>
+					<AnimalGatherSpeed>0.25</AnimalGatherSpeed>
+					<AnimalGatherYield>0.25</AnimalGatherYield>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+
+	<TraitDef>
+		<defName>PreciseMiner</defName>
+		<commonality>0.20</commonality>
+		<degreeDatas>
+			<li>
+				<label>precise miner</label>
+				<description>NAME is a very good miner. HE is able to extract more from mineral deposits and is faster at mining overall.</description>
+				<statOffsets>
+					<MiningSpeed>0.25</MiningSpeed>
+					<MiningYield>0.25</MiningYield>
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>	
+
+</Defs>
