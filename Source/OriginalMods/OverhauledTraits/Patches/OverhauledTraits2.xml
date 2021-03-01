@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "NaturalMood"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "NaturalMood"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "NaturalMood"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "NaturalMood"]/commonality</xpath>
+        <value>
+          <commonality>0.25</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Beauty"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Beauty"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Beauty"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "Beauty"]/commonality</xpath>
+        <value>
+          <commonality>0.25</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Industriousness"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Industriousness"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Industriousness"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "Industriousness"]/commonality</xpath>
+        <value>
+          <commonality>0.25</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Nerves"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Nerves"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "Nerves"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "Nerves"]/commonality</xpath>
+        <value>
+          <commonality>0.25</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "Neurotic"]/commonality</xpath>
+        <value>
+          <commonality>0</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "SpeedOffset"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "SpeedOffset"]/degreeDatas/li[2]</xpath>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "SpeedOffset"]/commonality</xpath>
+        <value>
+          <commonality>0.25</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "PsychicSensitivity"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "PsychicSensitivity"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/TraitDef[defName = "PsychicSensitivity"]/degreeDatas/li[1]</xpath>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "PsychicSensitivity"]/commonality</xpath>
+        <value>
+          <commonality>0.25</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationReplace">
+        <xpath>Defs/TraitDef[defName = "DrugDesire"]/commonality</xpath>
+        <value>
+          <commonality>0</commonality>
+        </value>
+      </li>
+      <li Class="PatchOperationRemove">
+        <xpath>Defs/ThoughtDef[defName = "BrawlerUnhappy"]</xpath>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
