@@ -31,6 +31,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1330474055
 
 - Now uses [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2251669099]More Backstories[/url] instead of bundling the Rainbeau Flambe's Editable Backstories and Names
 - The option of having pawn capable of any work is removed since its better implemented in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1803932954]More Than Capable[/url] by Charlotte
+- If you would like to change the commonality of the traits I recommend [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2296404655]Vanilla Traits Expanded[/url] by Oskar Potocki
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
@@ -52,8 +53,6 @@ Is this a cheat mod?: No. This mod does not make pawns more powerful overall. It
 
 But there’s nothing wrong with the way the Vanilla game generates pawns!: If that’s how you feel then this is not the mod compilation for you. But I would say that a system that generates pawns that are by a significant degree better than or worse than other pawns encourages many players to min-max and I think it detracts away from the experience of the game.
 
-I don’t like x feature!: The reason that I’ve made this a mod compilation and not just a single mod was to bring some modularity to it. Different parts of the mod can be turned on and off. With this said the mod compilation is balanced towards being used all together.
-
 Specifically this mod compilation makes the following changes:
 
 Minimum Age mod (created by myself):
@@ -67,7 +66,6 @@ No More Random Skills (Assembly editing courtesy of Spdskatr):
 Editable Backstories with custom backstories (framework courtesy of dburgdorf):
 
 •	6 child backstories and 78 adult backstories that are completely balanced. Each pawn will be assigned no less or no more than 50 points. Each skill (e.g. Melee, Cooking, etc) has an equal share of the total possible points that can be assigned so no skill is unfairly biased. The combination of child and adult backstories still lead to a widely varied possibility of different skills.
-•	Pawns will never be incapable of any work. They will sometimes be very bad at a type of work if their points have been assigned elsewhere but they will never be fully incapable of a job (with the one exception of pyromaniacs being incapable of fire-fighting).
 
 Overhauled Traits (created by myself):
 
@@ -95,10 +93,6 @@ Compatibility and known issues:
 
 Where possible I have done everything I can to ensure compatibility with other mods (many of which I use myself). All additions are made through patches which should not conflict with most mods. There are some extensive modifications of the vanilla trait files through patches so any mod touching the vanilla trait files may cause this mod compilation to not work or vice versa depending on load order.
 
-The mod compilation will throw around about 10 yellow errors in the log relating to commonality of traits being 0. These are safe to ignore and are not known to cause any issues with the game. Unfortunately this was the best way to edit out some of the vanilla traits without causing more severe issues.
-
-The future?: I’m looking at releasing patches to fully integrate this mod compilation into different modpacks. The first mod pack I’m looking at is the Hardcore Skyangel Modpack (HCSK).
-
 Words of thanks and credit:
 
 This mod compilation wouldn’t have been possible without the support of the following amazing people:
@@ -123,11 +117,7 @@ If you would like to change the modpack and wish to rerelease a modified version
 
 What you can do to say thanks (if you want to):
 
-This mod compilation took a lot of blood, sweat, tears and cursing to assemble. If it gave even 1 person some enjoyment then I think it was all worth it:
-
-•	I would love to hear your feedback or experience with it in this thread, or on the Discord where I go by my other alias (Stallion). 
-•	If you have any modding skills I ask that you share them with others as people so generously shared their skills with me. This is how we build a better modding community.
-•	If you want to somehow make a financial contribution, thank you for your generosity. I ask that you donate it to a charity of your choice, not to me, there are people who need it more.
+This mod compilation took a lot of blood, sweat, tears and cursing to assemble. If it gave even 1 person some enjoyment then I think it was all worth it.
 
 [img]https://i.imgur.com/Rs6T6cr.png[/img]
 [list]
@@ -137,6 +127,5 @@ This mod compilation took a lot of blood, sweat, tears and cursing to assemble. 
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[/list]
-</description>
+[/list]</description>
 </ModMetaData>
