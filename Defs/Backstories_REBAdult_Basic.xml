@@ -29,12 +29,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA002</defName>
@@ -65,14 +77,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA003</defName>
@@ -99,14 +121,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA004</defName>
@@ -137,14 +169,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA005</defName>
@@ -175,14 +217,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA006</defName>
@@ -213,14 +265,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA007</defName>
@@ -247,14 +309,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA008</defName>
@@ -281,14 +353,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA009</defName>
@@ -311,14 +393,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA010</defName>
@@ -345,12 +437,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA011</defName>
@@ -377,14 +481,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA012</defName>
@@ -411,14 +525,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA013</defName>
@@ -445,12 +569,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA014</defName>
@@ -481,14 +617,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA015</defName>
@@ -511,14 +657,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA016</defName>
@@ -541,14 +697,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA017</defName>
@@ -575,14 +741,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA018</defName>
@@ -609,14 +785,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA019</defName>
@@ -643,12 +829,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA020</defName>
@@ -671,14 +869,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA021</defName>
@@ -701,14 +909,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA022</defName>
@@ -735,14 +953,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA023</defName>
@@ -769,14 +997,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA024</defName>
@@ -803,14 +1041,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA025</defName>
@@ -837,12 +1085,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA026</defName>
@@ -869,14 +1129,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA027</defName>
@@ -903,14 +1173,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA028</defName>
@@ -937,14 +1217,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA029</defName>
@@ -967,14 +1257,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA030</defName>
@@ -1001,14 +1301,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA031</defName>
@@ -1043,12 +1353,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA032</defName>
@@ -1075,14 +1397,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA033</defName>
@@ -1105,14 +1437,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA034</defName>
@@ -1135,14 +1477,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA035</defName>
@@ -1165,14 +1517,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA036</defName>
@@ -1195,14 +1557,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA037</defName>
@@ -1225,12 +1597,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA038</defName>
@@ -1253,14 +1637,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA039</defName>
@@ -1283,14 +1677,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA040</defName>
@@ -1317,14 +1721,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA041</defName>
@@ -1351,14 +1765,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA042</defName>
@@ -1381,14 +1805,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA043</defName>
@@ -1415,12 +1849,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA044</defName>
@@ -1447,14 +1893,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA045</defName>
@@ -1481,14 +1937,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA046</defName>
@@ -1515,14 +1981,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA047</defName>
@@ -1553,14 +2029,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA048</defName>
@@ -1587,14 +2073,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA049</defName>
@@ -1621,12 +2117,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA050</defName>
@@ -1653,14 +2161,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA051</defName>
@@ -1683,14 +2201,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA052</defName>
@@ -1713,14 +2241,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA053</defName>
@@ -1747,14 +2285,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA054</defName>
@@ -1777,14 +2325,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA055</defName>
@@ -1811,12 +2369,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA056</defName>
@@ -1843,14 +2413,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA057</defName>
@@ -1877,14 +2457,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA058</defName>
@@ -1907,14 +2497,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA059</defName>
@@ -1941,14 +2541,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA060</defName>
@@ -1975,14 +2585,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA061</defName>
@@ -2009,12 +2629,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA062</defName>
@@ -2045,14 +2677,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA063</defName>
@@ -2075,14 +2717,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA064</defName>
@@ -2105,14 +2757,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA065</defName>
@@ -2139,14 +2801,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA066</defName>
@@ -2169,14 +2841,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Thin</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA067</defName>
@@ -2203,12 +2885,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Tribal</li>
+      <li>TribeCivil</li>
+      <li>TribeRough</li>
+      <li>REB_Tribal</li>
+      <li>REB_TribeCivil</li>
+      <li>REB_TribeRough</li>
       <li>FilterSet1</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA068</defName>
@@ -2231,14 +2925,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet2</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA069</defName>
@@ -2265,14 +2969,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet6</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA070</defName>
@@ -2299,14 +3013,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet4</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA071</defName>
@@ -2333,14 +3057,24 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Fat</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet5</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
   <StoriesRetold.SRBackstoryDef>
     <defName>REBA072</defName>
@@ -2367,13 +3101,23 @@
       </li>
     </SkillGains>
     <bodyTypeGlobal>Hulk</bodyTypeGlobal>
-    <spawnCategories>
+    <SpawnCategories>
+      <li>REB_PlayerColony</li>
       <li>Outlander</li>
+      <li>OutlanderCivil</li>
+      <li>OutlanderRough</li>
+      <li>REB_Outlander</li>
+      <li>REB_OutlanderCivil</li>
+      <li>REB_OutlanderRough</li>
       <li>Pirate</li>
+      <li>REB_Pirate</li>
       <li>Slave</li>
+      <li>REB_Slave</li>
       <li>Trader</li>
-      <li>Traveler</li>
+      <li>REB_Trader</li>
+      <li>Offworld</li>
+      <li>REB_Offworld</li>
       <li>FilterSet3</li>
-    </spawnCategories>
+    </SpawnCategories>
   </StoriesRetold.SRBackstoryDef>
 </Defs>

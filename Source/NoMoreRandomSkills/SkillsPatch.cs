@@ -1,19 +1,9 @@
 ﻿using System.Collections.Generic;
-using System.Reflection;
 using HarmonyLib;
 using Verse;
 
 namespace NoMoreRandomSkills
 {
-    public class HarmonyRunner : Mod
-    {
-        public HarmonyRunner(ModContentPack content) : base(content)
-        {
-            var harmonyInstance = new Harmony("com.nomorerandomskills.patch");
-            harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
-        }
-    }
-
     // Token: 0x02000002 RID: 2
     [HarmonyPatch(typeof(PawnGenerator), "FinalLevelOfSkill", null)]
     public static class SkillsPatch
