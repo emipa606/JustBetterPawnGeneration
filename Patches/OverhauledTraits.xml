@@ -98,7 +98,7 @@
       <li Class="PatchOperationReplace">
         <xpath>Defs/TraitDef[defName = "Pyromaniac"]/degreeDatas/li[1]/description</xpath>
         <value>
-          <description>NAME loves fire. HECAP will never extinguish fires. HE will only ever go on fire starting sprees if he has a mental break and will not have any other mental breaks.</description>
+          <description>[PAWN_nameDef] loves fire. [PAWN_pronoun] will never extinguish fires. [PAWN_pronoun] will only ever go on fire starting sprees if [PAWN_pronoun] has a mental break and will not have any other mental breaks.</description>
         </value>
       </li>
       <li Class="PatchOperationReplace">
