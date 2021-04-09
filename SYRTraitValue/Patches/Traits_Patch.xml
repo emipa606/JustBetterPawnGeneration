@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "SilverTongued"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "Academic"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "Butcher"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "RadiationResistant"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "HighPainTolerance"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>20</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "Sculptor"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "AnimalWhisperer"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/TraitDef[defName = "PreciseMiner"]</xpath>
+    <value>
+      <li Class="SyrTraitValue.TraitValueExtension">
+        <traitValues>
+          <li>10</li>
+        </traitValues>
+      </li>
+    </value>
+  </Operation>
+  <!-- Vanilla rewrites -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/TraitDef[defName = "SpeedOffset"]/modExtensions/li[@Class="SyrTraitValue.TraitValueExtension"]/traitValues</xpath>
+    <value>
+      <traitValues>
+        <li>1, 10</li>
+      </traitValues>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/TraitDef[defName = "NaturalMood"]/modExtensions/li[@Class="SyrTraitValue.TraitValueExtension"]/traitValues</xpath>
+    <value>
+      <traitValues>
+        <li>1, 10</li>
+      </traitValues>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/TraitDef[defName = "Nerves"]/modExtensions/li[@Class="SyrTraitValue.TraitValueExtension"]/traitValues</xpath>
+    <value>
+      <traitValues>
+        <li>1, 10</li>
+      </traitValues>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/TraitDef[defName = "Industriousness"]/modExtensions/li[@Class="SyrTraitValue.TraitValueExtension"]/traitValues</xpath>
+    <value>
+      <traitValues>
+        <li>1, 10</li>
+      </traitValues>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/TraitDef[defName = "PsychicSensitivity"]/modExtensions/li[@Class="SyrTraitValue.TraitValueExtension"]/traitValues</xpath>
+    <value>
+      <traitValues>
+        <li>-2, 10</li>
+      </traitValues>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/TraitDef[defName = "Beauty"]/modExtensions/li[@Class="SyrTraitValue.TraitValueExtension"]/traitValues</xpath>
+    <value>
+      <traitValues>
+        <li>1, 20</li>
+      </traitValues>
+    </value>
+  </Operation>
+</Patch>

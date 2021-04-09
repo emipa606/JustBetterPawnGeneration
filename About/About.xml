@@ -24,6 +24,7 @@
   <loadAfter>
     <li>brrainz.harmony</li>
     <li>Rosco.MoreBackstories</li>
+    <li>syrchalis.traitvalue</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of The13thRonins mod
@@ -35,6 +36,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1330474055
 
 - Added an option to ignore vanilla backstories, since they do not have the full amount of skill-points
 - Added an option to select the minimum spawning age of pawns
+- Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
@@ -115,10 +117,6 @@ Tynan: for making a great game.
 Redistribution rights:
 
 This mod compilation is free to bundle with mod packs. I only ask that you credit myself and the other creators; dburgdorf, Spdskatr and pardeike when you include it in a pack.
-
-If you would like to change the modpack and wish to rerelease a modified version I ask that you please message me for permission first.
-
-What you can do to say thanks (if you want to):
 
 This mod compilation took a lot of blood, sweat, tears and cursing to assemble. If it gave even 1 person some enjoyment then I think it was all worth it.
 
