@@ -1,7 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoMoreRandomSkills", "NoMoreRandomSkills\NoMoreRandomSkills.csproj", "{82C25706-EEA3-4943-A4DB-1D5F3D99D62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HARPatch", "HARPatch\HARPatch.csproj", "{F2A1D4FC-5974-414A-813A-D13A9CC5B106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +17,15 @@ Global
 		{82C25706-EEA3-4943-A4DB-1D5F3D99D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82C25706-EEA3-4943-A4DB-1D5F3D99D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82C25706-EEA3-4943-A4DB-1D5F3D99D62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2A1D4FC-5974-414A-813A-D13A9CC5B106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2A1D4FC-5974-414A-813A-D13A9CC5B106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2A1D4FC-5974-414A-813A-D13A9CC5B106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2A1D4FC-5974-414A-813A-D13A9CC5B106}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8ED1E16-84D9-4B74-B8A7-7488FEAE1E19}
 	EndGlobalSection
 EndGlobal

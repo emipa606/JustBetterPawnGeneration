@@ -25,6 +25,7 @@
     <li>brrainz.harmony</li>
     <li>Rosco.MoreBackstories</li>
     <li>syrchalis.traitvalue</li>
+    <li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/WAEzk68.png[/img]
 Update of The13thRonins mod
@@ -37,6 +38,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1330474055
 - Added an option to ignore vanilla backstories, since they do not have the full amount of skill-points
 - Added an option to select the minimum spawning age of pawns
 - Added support for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value[/url]
+- Will now work better with [url=https://steamcommunity.com/workshop/filedetails/?id=839005762]Humanoid Alien Races[/url]
 
 [img]https://i.imgur.com/7Gzt3Rg.png[/img]
 

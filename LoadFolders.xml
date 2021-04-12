@@ -2,9 +2,11 @@
 <loadFolders>
   <v1.1>
     <li>/</li>
+    <li IfModActive="erdelf.HumanoidAlienRaces">HAR</li>
   </v1.1>
   <v1.2>
     <li>/</li>
+    <li IfModActive="erdelf.HumanoidAlienRaces">HAR</li>
     <li IfModActive="syrchalis.traitvalue">SYRTraitValue</li>
   </v1.2>
 </loadFolders>

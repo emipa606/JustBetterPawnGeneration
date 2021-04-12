@@ -8,6 +8,7 @@ namespace NoMoreRandomSkills
     internal class NoMoreRandomSkillsSettings : ModSettings
     {
         public int MinimumSpawnAge = 20;
+
         public bool OnlyCustomBackstories = true;
 
         /// <summary>
