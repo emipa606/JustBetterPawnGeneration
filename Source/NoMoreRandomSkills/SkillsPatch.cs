@@ -29,9 +29,12 @@ namespace NoMoreRandomSkills
         // Token: 0x06000002 RID: 2 RVA: 0x00002078 File Offset: 0x00000278
         public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instrs)
         {
-            instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("RangeInclusive"), typeof(SkillsPatch).GetMethod("SkillRangePatch"));
-            instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("ByCurve"), typeof(SkillsPatch).GetMethod("SkillRangePatch2"));
-            instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("Range", new[] { typeof(float), typeof(float) }), typeof(SkillsPatch).GetMethod("SkillRangePatch3"));
+            instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("RangeInclusive"),
+                typeof(SkillsPatch).GetMethod("SkillRangePatch"));
+            instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("ByCurve"),
+                typeof(SkillsPatch).GetMethod("SkillRangePatch2"));
+            instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("Range", new[] { typeof(float), typeof(float) }),
+                typeof(SkillsPatch).GetMethod("SkillRangePatch3"));
             return instrs;
         }
     }

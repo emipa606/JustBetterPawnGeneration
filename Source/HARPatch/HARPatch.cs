@@ -39,7 +39,8 @@ namespace HARPatch
                     var traitDef = DefDatabase<TraitDef>.GetNamedSilentFail(traitEntry.defName.defName);
                     if (traitDef == null)
                     {
-                        Log.Message($"JBPG: Removing {traitEntry.defName.defName} for backstory {__instance.defName} since it does not exist");
+                        Log.Message(
+                            $"JBPG: Removing {traitEntry.defName.defName} for backstory {__instance.defName} since it does not exist");
                         continue;
                     }
 
@@ -61,7 +62,8 @@ namespace HARPatch
 
                                 traitEntry.degree = i;
                                 resultingTraits.Add(traitEntry);
-                                Log.Message($"JBPG: Lowering {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
+                                Log.Message(
+                                    $"JBPG: Lowering {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
                                 break;
                             }
                         }
@@ -79,7 +81,8 @@ namespace HARPatch
 
                                 traitEntry.degree = i;
                                 resultingTraits.Add(traitEntry);
-                                Log.Message($"JBPG: Raising {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
+                                Log.Message(
+                                    $"JBPG: Raising {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
                                 break;
                             }
                         }
@@ -87,7 +90,8 @@ namespace HARPatch
 
                     if (!traitDef.degreeDatas.Any(d => d.degree == traitEntry.degree))
                     {
-                        Log.Message($"JBPG: Removing {traitDef.defName} degree {traitEntry.degree} for backstory {__instance.defName} since it does not exist");
+                        Log.Message(
+                            $"JBPG: Removing {traitDef.defName} degree {traitEntry.degree} for backstory {__instance.defName} since it does not exist");
                     }
 
                     __instance.forcedTraits = resultingTraits;

@@ -37,7 +37,8 @@ namespace NoMoreRandomSkills
 
                             traitEntry.degree = i;
                             resultingTraits.Add(traitEntry);
-                            Log.Message($"JBPG: Lowering {traitEntry.def.defName} degree to {traitEntry.degree} for {logName}");
+                            Log.Message(
+                                $"JBPG: Lowering {traitEntry.def.defName} degree to {traitEntry.degree} for {logName}");
                             break;
                         }
                     }
@@ -55,7 +56,8 @@ namespace NoMoreRandomSkills
 
                             traitEntry.degree = i;
                             resultingTraits.Add(traitEntry);
-                            Log.Message($"JBPG: Raising {traitEntry.def.defName} degree to {traitEntry.degree} for {logName}");
+                            Log.Message(
+                                $"JBPG: Raising {traitEntry.def.defName} degree to {traitEntry.degree} for {logName}");
                             break;
                         }
                     }
@@ -63,7 +65,8 @@ namespace NoMoreRandomSkills
 
                 if (!traitEntry.def.degreeDatas.Any(d => d.degree == traitEntry.degree))
                 {
-                    Log.Message($"JBPG: Removing {traitEntry.def.defName} degree {traitEntry.degree} for {logName} since it does not exist");
+                    Log.Message(
+                        $"JBPG: Removing {traitEntry.def.defName} degree {traitEntry.degree} for {logName} since it does not exist");
                 }
             }
 
@@ -75,19 +78,22 @@ namespace NoMoreRandomSkills
             pawnBio.ResolveReferences();
             if (pawnBio.childhood?.forcedTraits != null)
             {
-                pawnBio.childhood.forcedTraits = CleanUpTraitList(pawnBio.childhood.forcedTraits, $"PawnBio: {pawnBio.name.ToStringFull}");
+                pawnBio.childhood.forcedTraits = CleanUpTraitList(pawnBio.childhood.forcedTraits,
+                    $"PawnBio: {pawnBio.name.ToStringFull}");
             }
 
             if (pawnBio.adulthood?.forcedTraits != null)
             {
-                pawnBio.adulthood.forcedTraits = CleanUpTraitList(pawnBio.adulthood.forcedTraits, $"PawnBio: {pawnBio.name.ToStringFull}");
+                pawnBio.adulthood.forcedTraits = CleanUpTraitList(pawnBio.adulthood.forcedTraits,
+                    $"PawnBio: {pawnBio.name.ToStringFull}");
             }
         }
 
         // Token: 0x06000002 RID: 2 RVA: 0x00002078 File Offset: 0x00000278
         public static IEnumerable<CodeInstruction> Transpiler(IEnumerable<CodeInstruction> instrs)
         {
-            instrs = instrs.MethodReplacer(typeof(PawnBio).GetMethod("ResolveReferences"), typeof(PawnBioPatch).GetMethod("RemoveMissingSkills"));
+            instrs = instrs.MethodReplacer(typeof(PawnBio).GetMethod("ResolveReferences"),
+                typeof(PawnBioPatch).GetMethod("RemoveMissingSkills"));
             return instrs;
         }
     }
