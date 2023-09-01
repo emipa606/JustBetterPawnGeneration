@@ -1,101 +1,98 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Reflection;
-using AlienRace;
 using HarmonyLib;
 using RimWorld;
 using Verse;
 
-namespace HARPatch
+namespace HARPatch;
+
+[StaticConstructorOnStartup]
+public class HARPatch : Mod
 {
-    [StaticConstructorOnStartup]
-    public class HARPatch : Mod
+    public HARPatch(ModContentPack content)
+        : base(content)
     {
-        public HARPatch(ModContentPack content)
-            : base(content)
-        {
-            var harmonyInstance = new Harmony("Mlie.JBPGHARPatch");
-            harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
-        }
+        var harmonyInstance = new Harmony("Mlie.JBPGHARPatch");
+        harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
+    }
 
-        [HarmonyPatch(typeof(BackstoryDef), "ResolveReferences")]
-        public static class ResolveReferencesPatch
+    [HarmonyPatch(typeof(BackstoryDef), "ResolveReferences")]
+    public static class ResolveReferencesPatch
+    {
+        public static void Prefix(ref BackstoryDef __instance)
         {
-            // Token: 0x06000002 RID: 2 RVA: 0x00002078 File Offset: 0x00000278
-            public static void Prefix(ref BackstoryDef __instance)
+            if (!__instance.forcedTraits.Any())
             {
-                if (!__instance.forcedTraits.Any())
+                return;
+            }
+
+            var resultingTraits = new List<BackstoryTrait>();
+            foreach (var traitEntry in __instance.forcedTraits)
+            {
+                if (traitEntry == null)
                 {
-                    return;
+                    continue;
                 }
 
-                var resultingTraits = new List<AlienTraitEntry>();
-                foreach (var traitEntry in __instance.forcedTraits)
+                var traitDef = DefDatabase<TraitDef>.GetNamedSilentFail(traitEntry.def.defName);
+                if (traitDef == null)
                 {
-                    if (traitEntry == null)
-                    {
-                        continue;
-                    }
+                    Log.Message(
+                        $"JBPG: Removing {traitEntry.def.defName} for backstory {__instance.defName} since it does not exist");
+                    continue;
+                }
 
-                    var traitDef = DefDatabase<TraitDef>.GetNamedSilentFail(traitEntry.defName.defName);
-                    if (traitDef == null)
+                if (traitDef.degreeDatas.Any(d => d.degree == traitEntry.degree))
+                {
+                    resultingTraits.Add(traitEntry);
+                }
+                else
+                {
+                    if (traitEntry.degree > 0)
                     {
-                        Log.Message(
-                            $"JBPG: Removing {traitEntry.defName.defName} for backstory {__instance.defName} since it does not exist");
-                        continue;
-                    }
-
-                    if (traitDef.degreeDatas.Any(d => d.degree == traitEntry.degree))
-                    {
-                        resultingTraits.Add(traitEntry);
-                    }
-                    else
-                    {
-                        if (traitEntry.degree > 0)
+                        for (var i = traitEntry.degree; i >= 0; i--)
                         {
-                            for (var i = traitEntry.degree; i >= 0; i--)
+                            var testingDegree = i;
+                            if (!traitDef.degreeDatas.Any(d => d.degree == testingDegree))
                             {
-                                var testingDegree = i;
-                                if (!traitDef.degreeDatas.Any(d => d.degree == testingDegree))
-                                {
-                                    continue;
-                                }
-
-                                traitEntry.degree = i;
-                                resultingTraits.Add(traitEntry);
-                                Log.Message(
-                                    $"JBPG: Lowering {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
-                                break;
+                                continue;
                             }
-                        }
 
-                        // ReSharper disable once InvertIf
-                        if (traitEntry.degree < 0)
-                        {
-                            for (var i = traitEntry.degree; i <= 0; i++)
-                            {
-                                var testingDegree = i;
-                                if (!traitDef.degreeDatas.Any(d => d.degree == testingDegree))
-                                {
-                                    continue;
-                                }
-
-                                traitEntry.degree = i;
-                                resultingTraits.Add(traitEntry);
-                                Log.Message(
-                                    $"JBPG: Raising {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
-                                break;
-                            }
+                            traitEntry.degree = i;
+                            resultingTraits.Add(traitEntry);
+                            Log.Message(
+                                $"JBPG: Lowering {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
+                            break;
                         }
                     }
 
-                    if (!traitDef.degreeDatas.Any(d => d.degree == traitEntry.degree))
+                    // ReSharper disable once InvertIf
+                    if (traitEntry.degree < 0)
                     {
-                        Log.Message(
-                            $"JBPG: Removing {traitDef.defName} degree {traitEntry.degree} for backstory {__instance.defName} since it does not exist");
-                    }
+                        for (var i = traitEntry.degree; i <= 0; i++)
+                        {
+                            var testingDegree = i;
+                            if (!traitDef.degreeDatas.Any(d => d.degree == testingDegree))
+                            {
+                                continue;
+                            }
 
-                    __instance.forcedTraits = resultingTraits;
+                            traitEntry.degree = i;
+                            resultingTraits.Add(traitEntry);
+                            Log.Message(
+                                $"JBPG: Raising {traitDef.defName} degree to {traitEntry.degree} for backstory {__instance.defName}");
+                            break;
+                        }
+                    }
                 }
+
+                if (!traitDef.degreeDatas.Any(d => d.degree == traitEntry.degree))
+                {
+                    Log.Message(
+                        $"JBPG: Removing {traitDef.defName} degree {traitEntry.degree} for backstory {__instance.defName} since it does not exist");
+                }
+
+                __instance.forcedTraits = resultingTraits;
             }
         }
     }

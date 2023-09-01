@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
+  <REB.CurrentModVersion>Installed mod-version: {0}</REB.CurrentModVersion>
+  <REB.MinimumSpawnAge>Minimum age: {0}</REB.MinimumSpawnAge>
+  <REB.MinimumSpawnAgeTT>The minimum age of any spawned pawn</REB.MinimumSpawnAgeTT>
+  <REB.OnlyCustomBackstories>Ignore vanilla backstories</REB.OnlyCustomBackstories>
+  <REB.OnlyCustomBackstoriesTT>Will only select backstories from the custom added by this mod instead of vanilla.</REB.OnlyCustomBackstoriesTT>
   <REB.EditableBackstories>Rainbeau's Editable Backstories</REB.EditableBackstories>
   <REB.UseLiteMode>Use "Lite Mode."</REB.UseLiteMode>
   <REB.UseLiteModeTip>By default, "Rainbeau's Editable Backstories" completely replaces the vanilla backstory database. However, if this box is checked, the mod will instead merely add items to the database. Vanilla backstories will not be deleted (and won't be editable), but your custom backstories will be added to the game.

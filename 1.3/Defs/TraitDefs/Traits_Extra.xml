@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraitDef>
+    <defName>SilverTongued</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>silver-tongued</label>
+        <description>[PAWN_nameDef] has a silver tongue and [PAWN_pronoun] is good at convincing others to get what [PAWN_pronoun] wants.</description>
+        <statOffsets>
+          <NegotiationAbility>0.10</NegotiationAbility>
+          <TradePriceImprovement>0.25</TradePriceImprovement>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>Academic</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>academic</label>
+        <description>[PAWN_nameDef] is a bit of an egg-head. [PAWN_pronoun] is more scientifically minded than most other colonists.</description>
+        <statOffsets>
+          <ResearchSpeed>0.25</ResearchSpeed>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>Butcher</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>butcher</label>
+        <description>[PAWN_nameDef] knows [PAWN_possessive] way around a cleaver. [PAWN_pronoun] can minimize wastage when butchering carcasses.</description>
+        <statOffsets>
+          <ButcheryFleshEfficiency>0.25</ButcheryFleshEfficiency>
+          <ButcheryFleshSpeed>0.25</ButcheryFleshSpeed>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>RadiationResistant</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>radiation resistant</label>
+        <description>[PAWN_nameDef]'s genetics make [PAWN_objective] more resistant to radiation than normal.</description>
+        <statOffsets>
+          <ToxicSensitivity>-0.3</ToxicSensitivity>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>HighPainTolerance</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>high pain tolerance</label>
+        <description>[PAWN_nameDef] has an unusually high tolerance of pain. It takes a lot to bring [PAWN_objective] down.</description>
+        <statOffsets>
+          <PainShockThreshold>0.50</PainShockThreshold>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>Sculptor</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>sculptor</label>
+        <description>[PAWN_nameDef] is a natural at carving various materials.</description>
+        <statOffsets>
+          <GeneralLaborSpeed>0.25</GeneralLaborSpeed>
+          <SmoothingSpeed>0.25</SmoothingSpeed>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>AnimalWhisperer</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>animal whisperer</label>
+        <description>[PAWN_nameDef] is a natural at caring for animals. [PAWN_pronoun] always manages to get the most out of livestock.</description>
+        <statOffsets>
+          <AnimalGatherSpeed>0.25</AnimalGatherSpeed>
+          <AnimalGatherYield>0.25</AnimalGatherYield>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+  <TraitDef>
+    <defName>PreciseMiner</defName>
+    <commonality>0.20</commonality>
+    <degreeDatas>
+      <li>
+        <label>precise miner</label>
+        <description>[PAWN_nameDef] is a very good miner. [PAWN_pronoun] is able to extract more from mineral deposits and is faster at mining overall.</description>
+        <statOffsets>
+          <MiningSpeed>0.25</MiningSpeed>
+          <MiningYield>0.25</MiningYield>
+        </statOffsets>
+      </li>
+    </degreeDatas>
+  </TraitDef>
+</Defs>

@@ -1,6 +1,6 @@
 # JustBetterPawnGeneration
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of The13thRonins mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1330474055
@@ -14,19 +14,10 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1330474055
 - Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value
 - Will now work better with https://steamcommunity.com/workshop/filedetails/?id=839005762]Humanoid Alien Races
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-    [tr]
-        [td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-        [td]https://github.com/emipa606/JustBetterPawnGeneration]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-    [/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 [B18] Just Better Pawn Generation
 
@@ -100,7 +91,7 @@ This mod compilation is free to bundle with mod packs. I only ask that you credi
 
 This mod compilation took a lot of blood, sweat, tears and cursing to assemble. If it gave even 1 person some enjoyment then I think it was all worth it.
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -112,3 +103,5 @@ This mod compilation took a lot of blood, sweat, tears and cursing to assemble. 
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247]Last updated 2023-09-01

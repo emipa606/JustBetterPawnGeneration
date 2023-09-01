@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAddModExtension">
+    <xpath>Defs/PawnKindDef[not(@ParentName) and race="Human" and not(defName="StrangerInBlack")]</xpath>
+    <value>
+      <li Class="NoMoreRandomSkills.AgeLimit">
+        <MinimumAge>20</MinimumAge>
+      </li>
+    </value>
+  </Operation>
+</Patch>

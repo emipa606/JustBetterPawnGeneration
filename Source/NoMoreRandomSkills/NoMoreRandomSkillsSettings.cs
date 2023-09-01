@@ -1,24 +1,23 @@
 ﻿using Verse;
 
-namespace NoMoreRandomSkills
+namespace NoMoreRandomSkills;
+
+/// <summary>
+///     Definition of the settings for the mod
+/// </summary>
+internal class NoMoreRandomSkillsSettings : ModSettings
 {
+    public int MinimumSpawnAge = 20;
+
+    public bool OnlyCustomBackstories = true;
+
     /// <summary>
-    ///     Definition of the settings for the mod
+    ///     Saving and loading the values
     /// </summary>
-    internal class NoMoreRandomSkillsSettings : ModSettings
+    public override void ExposeData()
     {
-        public int MinimumSpawnAge = 20;
-
-        public bool OnlyCustomBackstories = true;
-
-        /// <summary>
-        ///     Saving and loading the values
-        /// </summary>
-        public override void ExposeData()
-        {
-            base.ExposeData();
-            Scribe_Values.Look(ref OnlyCustomBackstories, "OnlyCustomBackstories", true);
-            Scribe_Values.Look(ref MinimumSpawnAge, "MinimumSpawnAge", 20);
-        }
+        base.ExposeData();
+        Scribe_Values.Look(ref OnlyCustomBackstories, "OnlyCustomBackstories", true);
+        Scribe_Values.Look(ref MinimumSpawnAge, "MinimumSpawnAge", 20);
     }
 }

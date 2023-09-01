@@ -1,5 +1,9 @@
 # Changelog for JustBetterPawnGeneration
 
+1.4.1 - Updated to 1.4, removed dependencies since backstories are normal defs now.
+Used DeepL to update translations for ChineseSimplified, French, German
+
+
 1.2.8.0 - Updated to 1.3, seems to work even if the prereqs are not updated
 
 

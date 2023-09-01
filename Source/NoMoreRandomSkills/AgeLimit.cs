@@ -1,9 +1,8 @@
 ﻿using Verse;
 
-namespace NoMoreRandomSkills
+namespace NoMoreRandomSkills;
+
+public class AgeLimit : DefModExtension
 {
-    public class AgeLimit : DefModExtension
-    {
-        public int MinimumAge;
-    }
+    public int MinimumAge;
 }
