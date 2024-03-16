@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/BackstoryDef</xpath>
+    <value>
+      <ignoreConfigErrors>True</ignoreConfigErrors>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BackstoryDef/forcedTraits/Beauty[text()="2"]</xpath>
+    <value>
+      <Beauty>1</Beauty>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BackstoryDef/forcedTraits/SpeedOffset[text()="2"]</xpath>
+    <value>
+      <SpeedOffset>1</SpeedOffset>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BackstoryDef/forcedTraits/Industriousness[text()="2"]</xpath>
+    <value>
+      <Industriousness>1</Industriousness>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/BackstoryDef/forcedTraits/Nerves[text()="2"]</xpath>
+    <value>
+      <Nerves>1</Nerves>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/BackstoryDef/forcedTraits/Beauty[text()="-1"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/BackstoryDef/forcedTraits/Industriousness[text()="-1" or text()="-2"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/BackstoryDef/forcedTraits/Nerves[text()="-1" or text()="-2"]</xpath>
+  </Operation>
+  <Operation Class="PatchOperationRemove">
+    <xpath>Defs/BackstoryDef/forcedTraits/PsychicSensitivity</xpath>
+  </Operation>
+</Patch>

@@ -28,7 +28,7 @@ public static class SkillsPatch
             typeof(SkillsPatch).GetMethod("SkillRangePatch"));
         instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("ByCurve"),
             typeof(SkillsPatch).GetMethod("SkillRangePatch2"));
-        instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("Range", new[] { typeof(float), typeof(float) }),
+        instrs = instrs.MethodReplacer(typeof(Rand).GetMethod("Range", [typeof(float), typeof(float)]),
             typeof(SkillsPatch).GetMethod("SkillRangePatch3"));
         return instrs;
     }
