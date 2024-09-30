@@ -1,4 +1,4 @@
-# JustBetterPawnGeneration
+# [Just Better Pawn Generation (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2412097247)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -6,16 +6,15 @@ Update of The13thRonins mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1330474055
 
 - No longer have any specific dependencies since backstories can be patched like any other def
-- The option of having pawn capable of any work is better implemented in https://steamcommunity.com/sharedfiles/filedetails/?id=1803932954]More Than Capable by Charlotte
-- If you would like to change the commonality of the traits use https://steamcommunity.com/sharedfiles/filedetails/?id=2296404655]Vanilla Traits Expanded by Oskar Potocki
+- The option of having pawn capable of any work is better implemented in [More Than Capable](https://steamcommunity.com/sharedfiles/filedetails/?id=1803932954) by Charlotte
+- If you would like to change the commonality of the traits use [Vanilla Traits Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2296404655) by Oskar Potocki
 
 - Added an option to ignore vanilla backstories, since they do not have the full amount of skill-points
 - Added an option to select the minimum spawning age of pawns
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814][SYR] Trait Value
-- Will now work better with https://steamcommunity.com/workshop/filedetails/?id=839005762]Humanoid Alien Races
+- Added support for [[SYR] Trait Value](https://steamcommunity.com/sharedfiles/filedetails/?id=2451324814)
+- Will now work better with [Humanoid Alien Races](https://steamcommunity.com/workshop/filedetails/?id=839005762)
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -97,13 +96,12 @@ This mod compilation took a lot of blood, sweat, tears and cursing to assemble. 
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247]![Image](https://img.shields.io/github/v/release/emipa606/JustBetterPawnGeneration?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/JustBetterPawnGeneration?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247)
