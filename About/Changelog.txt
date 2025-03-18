@@ -1,5 +1,8 @@
 # Changelog for JustBetterPawnGeneration
 
+1.5.2 - Added load-order settings for SYR Individuality and Trait Value
+
+
 1.5.1 - Updated reference to the continued version of [SYR] Trait Value
 
 

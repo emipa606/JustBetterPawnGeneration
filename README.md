@@ -102,6 +102,6 @@ This mod compilation took a lot of blood, sweat, tears and cursing to assemble. 
 -  If you have the solution for a problem, please post it to the GitHub repository.
 -  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-[![Image](https://img.shields.io/github/v/release/emipa606/JustBetterPawnGeneration?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247)
+[![Image](https://img.shields.io/github/v/release/emipa606/JustBetterPawnGeneration?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247) | tags: balanced pawns

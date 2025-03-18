@@ -22,6 +22,8 @@
   <loadAfter>
     <li>brrainz.harmony</li>
     <li>syrchalis.traitvalue</li>
+    <li>Mlie.SYRIndividuality</li>
+    <li>Mlie.SYRTraitValue</li>
   </loadAfter>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of The13thRonins mod
@@ -127,8 +129,8 @@ This mod compilation took a lot of blood, sweat, tears and cursing to assemble. 
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
-[/list]
+[/list] 
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247][img]https://img.shields.io/github/v/release/emipa606/JustBetterPawnGeneration?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url]</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
+[url=https://steamcommunity.com/sharedfiles/filedetails/changelog/2412097247][img]https://img.shields.io/github/v/release/emipa606/JustBetterPawnGeneration?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags: balanced pawns</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.2</modVersion>
 </ModMetaData>
