@@ -8,7 +8,7 @@ namespace NoMoreRandomSkills;
 [HarmonyPatch(typeof(PawnBioAndNameGenerator), "GetBackstoryCategoryFiltersFor")]
 public static class PawnBioAndNameGenerator_GetBackstoryCategoryFiltersFor
 {
-    public static void Postfix(Pawn pawn, FactionDef faction, ref List<BackstoryCategoryFilter> __result)
+    public static void Postfix(ref List<BackstoryCategoryFilter> __result)
     {
         if (!LoadedModManager.GetMod<NoMoreRandomSkillsMod>().GetSettings<NoMoreRandomSkillsSettings>()
                 .OnlyCustomBackstories)
@@ -20,7 +20,6 @@ public static class PawnBioAndNameGenerator_GetBackstoryCategoryFiltersFor
         {
             for (var j = 0; j < backstoryCategoryFilter.categories.Count; j++)
             {
-                // Log.Message($"Found: {backstoryCategoryFilter.categories[j]}");
                 if (backstoryCategoryFilter.categories[j] == "OutlanderCivil" ||
                     backstoryCategoryFilter.categories[j] == "OutlanderRough" ||
                     backstoryCategoryFilter.categories[j] == "Outlander" ||
@@ -35,8 +34,6 @@ public static class PawnBioAndNameGenerator_GetBackstoryCategoryFiltersFor
                 {
                     backstoryCategoryFilter.categories[j] = $"REB_{backstoryCategoryFilter.categories[j]}";
                 }
-
-                // Log.Message($"Final: {backstoryCategoryFilter.categories[j]}");
             }
         }
     }

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: [PAWN_nameDef] was the chief of [PAWN_possessive] tribe unit it was wiped out by raiders. Now [PAWN_pronoun] wanders the Rimworld waiting for a chance at revenge. -->
+  <REBA001.description>[PAWN_nameDef] was the chief of [PAWN_possessive] tribe unit it was wiped out by raiders. Now [PAWN_pronoun] wanders the Rimworld waiting for a chance at revenge.</REBA001.description>
+  <!-- EN: Chieftain -->
+  <REBA001.title>Chieftain</REBA001.title>
+  <!-- EN: Chieftain -->
+  <REBA001.titleShort>Chieftain</REBA001.titleShort>
+  <!-- EN: [PAWN_nameDef] is a noble lord. [PAWN_pronoun] has decided to wander the rimworld to test [PAWN_possessive] mettle against this harsh world before returning to lead [PAWN_possessive] people. -->
+  <REBA002.description>[PAWN_nameDef] is a noble lord. [PAWN_pronoun] has decided to wander the rimworld to test [PAWN_possessive] mettle against this harsh world before returning to lead [PAWN_possessive] people.</REBA002.description>
+  <!-- EN: Medieval lord -->
+  <REBA002.title>Medieval lord</REBA002.title>
+  <!-- EN: Medieval Lord -->
+  <REBA002.titleShort>Medieval Lord</REBA002.titleShort>
+  <!-- EN: [PAWN_nameDef] is an exiled senator. [PAWN_possessive] political enemies came for [PAWN_objective] one night and [PAWN_pronoun] was forced to flee. [PAWN_pronoun] hopes to build a following on this new world and return for vengeance when possible. -->
+  <REBA003.description>[PAWN_nameDef] is an exiled senator. [PAWN_possessive] political enemies came for [PAWN_objective] one night and [PAWN_pronoun] was forced to flee. [PAWN_pronoun] hopes to build a following on this new world and return for vengeance when possible.</REBA003.description>
+  <!-- EN: Senator -->
+  <REBA003.title>Senator</REBA003.title>
+  <!-- EN: Senator -->
+  <REBA003.titleShort>Senator</REBA003.titleShort>
+  <!-- EN: [PAWN_nameDef] was an urbworld gang leader. [PAWN_pronoun] left his crew behind when [PAWN_pronoun] was betrayed. [PAWN_nameDef] hopes to start a new gang on this forsaken world and rise to be its crime kingpin. -->
+  <REBA004.description>[PAWN_nameDef] was an urbworld gang leader. [PAWN_pronoun] left his crew behind when [PAWN_pronoun] was betrayed. [PAWN_nameDef] hopes to start a new gang on this forsaken world and rise to be its crime kingpin.</REBA004.description>
+  <!-- EN: Gang leader -->
+  <REBA004.title>Gang leader</REBA004.title>
+  <!-- EN: Gang leader -->
+  <REBA004.titleShort>Gang leader</REBA004.titleShort>
+  <!-- EN: [PAWN_nameDef] was a governor on this rimworld until his colony was overrun by raiders. Now [PAWN_pronoun] wanders the Rimworld waiting for a chance at revenge. -->
+  <REBA005.description>[PAWN_nameDef] was a governor on this rimworld until his colony was overrun by raiders. Now [PAWN_pronoun] wanders the Rimworld waiting for a chance at revenge.</REBA005.description>
+  <!-- EN: Governor -->
+  <REBA005.title>Governor</REBA005.title>
+  <!-- EN: Governor -->
+  <REBA005.titleShort>Governor</REBA005.titleShort>
+  <!-- EN: [PAWN_nameDef] was a union boss on a caveworld. [PAWN_pronoun] has decided to dedicate [PAWN_possessive] life to supporting the rights of the workers in the outer rim. -->
+  <REBA006.description>[PAWN_nameDef] was a union boss on a caveworld. [PAWN_pronoun] has decided to dedicate [PAWN_possessive] life to supporting the rights of the workers in the outer rim.</REBA006.description>
+  <!-- EN: Union boss -->
+  <REBA006.title>Union boss</REBA006.title>
+  <!-- EN: Union boss -->
+  <REBA006.titleShort>Union boss</REBA006.titleShort>
+  <!-- EN: [PAWN_nameDef] is a combat engineer. [PAWN_pronoun] knows how to build structures as well as how to tear them down. Now [PAWN_nameDef] has decided to put [PAWN_possessive] skills to use helping to build and defend a colony on the outer rim. -->
+  <REBA007.description>[PAWN_nameDef] is a combat engineer. [PAWN_pronoun] knows how to build structures as well as how to tear them down. Now [PAWN_nameDef] has decided to put [PAWN_possessive] skills to use helping to build and defend a colony on the outer rim.</REBA007.description>
+  <!-- EN: Combat engineer -->
+  <REBA007.title>Combat engineer</REBA007.title>
+  <!-- EN: Combat engineer -->
+  <REBA007.titleShort>Combat engineer</REBA007.titleShort>
+  <!-- EN: [PAWN_nameDef] is a sheriff of the outer rim. [PAWN_pronoun] is responsible for enforcing the loose semblance of law that this world has. -->
+  <REBA008.description>[PAWN_nameDef] is a sheriff of the outer rim. [PAWN_pronoun] is responsible for enforcing the loose semblance of law that this world has.</REBA008.description>
+  <!-- EN: Sheriff -->
+  <REBA008.title>Sheriff</REBA008.title>
+  <!-- EN: Sheriff -->
+  <REBA008.titleShort>Sheriff</REBA008.titleShort>
+  <!-- EN: [PAWN_nameDef] is an urbworld assassin dedicated to eliminating [PAWN_possessive] targets. [PAWN_pronoun] has tracked one of them to this rimworld and [PAWN_pronoun] will kill anyone who gets in [PAWN_possessive] way. -->
+  <REBA009.description>[PAWN_nameDef] is an urbworld assassin dedicated to eliminating [PAWN_possessive] targets. [PAWN_pronoun] has tracked one of them to this rimworld and [PAWN_pronoun] will kill anyone who gets in [PAWN_possessive] way.</REBA009.description>
+  <!-- EN: Assassin -->
+  <REBA009.title>Assassin</REBA009.title>
+  <!-- EN: Assassin -->
+  <REBA009.titleShort>Assassin</REBA009.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tribal trapper in charge of bringing food to [PAWN_possessive] tribe until one day [PAWN_pronoun] was the one who was trapped and sold off to the highest bidder. Now [PAWN_nameDef] is far from home. -->
+  <REBA010.description>[PAWN_nameDef] was a tribal trapper in charge of bringing food to [PAWN_possessive] tribe until one day [PAWN_pronoun] was the one who was trapped and sold off to the highest bidder. Now [PAWN_nameDef] is far from home.</REBA010.description>
+  <!-- EN: Trapper -->
+  <REBA010.title>Trapper</REBA010.title>
+  <!-- EN: Trapper -->
+  <REBA010.titleShort>Trapper</REBA010.titleShort>
+  <!-- EN: [PAWN_nameDef] was a Medieval archer. Tired of war [PAWN_pronoun] hung up [PAWN_possessive] bow and snuck aboard a spaceship. Now [PAWN_nameDef] utilizes [PAWN_possessive] talents defending and feeding the outer rim. -->
+  <REBA011.description>[PAWN_nameDef] was a Medieval archer. Tired of war [PAWN_pronoun] hung up [PAWN_possessive] bow and snuck aboard a spaceship. Now [PAWN_nameDef] utilizes [PAWN_possessive] talents defending and feeding the outer rim.</REBA011.description>
+  <!-- EN: Medieval archer -->
+  <REBA011.title>Medieval archer</REBA011.title>
+  <!-- EN: Medieval archer -->
+  <REBA011.titleShort>Medieval archer</REBA011.titleShort>
+  <!-- EN: [PAWN_nameDef] was a glitterworld drop pod trooper. A machine of death and destruction [PAWN_pronoun] saw the end of many worlds. Now after many years of destroying [PAWN_pronoun] has traveled to the outer rim to help build something. -->
+  <REBA012.description>[PAWN_nameDef] was a glitterworld drop pod trooper. A machine of death and destruction [PAWN_pronoun] saw the end of many worlds. Now after many years of destroying [PAWN_pronoun] has traveled to the outer rim to help build something.</REBA012.description>
+  <!-- EN: Drop pod trooper -->
+  <REBA012.title>Drop pod trooper</REBA012.title>
+  <!-- EN: Drop pod trooper -->
+  <REBA012.titleShort>Drop pod trooper</REBA012.titleShort>
+  <!-- EN: [PAWN_nameDef] is a tribal medicine man. [PAWN_pronoun] was exiled from [PAWN_possessive] tribe for [PAWN_possessive] outlandish ideas and now travels the outer rim healing those [PAWN_pronoun] comes across. -->
+  <REBA013.description>[PAWN_nameDef] is a tribal medicine man. [PAWN_pronoun] was exiled from [PAWN_possessive] tribe for [PAWN_possessive] outlandish ideas and now travels the outer rim healing those [PAWN_pronoun] comes across.</REBA013.description>
+  <!-- EN: Medicine man -->
+  <REBA013.title>Medicine man</REBA013.title>
+  <!-- EN: Medicine man -->
+  <REBA013.titleShort>Medicine man</REBA013.titleShort>
+  <!-- EN: [PAWN_nameDef] was exiled from [PAWN_possessive] lord's court when [PAWN_pronoun] failed to turn lead into gold. Now [PAWN_nameDef] travels the outer rim searching for a greater understanding of the elements. -->
+  <REBA014.description>[PAWN_nameDef] was exiled from [PAWN_possessive] lord's court when [PAWN_pronoun] failed to turn lead into gold. Now [PAWN_nameDef] travels the outer rim searching for a greater understanding of the elements.</REBA014.description>
+  <!-- EN: Medieval alchemist -->
+  <REBA014.title>Medieval alchemist</REBA014.title>
+  <!-- EN: Medieval alchemist -->
+  <REBA014.titleShort>Medieval alchemist</REBA014.titleShort>
+  <!-- EN: [PAWN_nameDef] was a glitterworld surgeon. [PAWN_pronoun] saved countless lives. However [PAWN_nameDef] knew that [PAWN_pronoun] could do more good somewhere lacking a doctor with [PAWN_possessive] skills, so he traveled to the outer rim to make a real difference. -->
+  <REBA015.description>[PAWN_nameDef] was a glitterworld surgeon. [PAWN_pronoun] saved countless lives. However [PAWN_nameDef] knew that [PAWN_pronoun] could do more good somewhere lacking a doctor with [PAWN_possessive] skills, so he traveled to the outer rim to make a real difference.</REBA015.description>
+  <!-- EN: Glitterworld surgeon -->
+  <REBA015.title>Glitterworld surgeon</REBA015.title>
+  <!-- EN: Glitterworld surgeon -->
+  <REBA015.titleShort>Glitterworld surgeon</REBA015.titleShort>
+  <!-- EN: [PAWN_nameDef] is a black market butcher. [PAWN_pronoun] deals with reclaiming organs from illegal sources for a variety of purposes. [PAWN_nameDef] has traveled to the outer rim to avoid the long reach of the law. -->
+  <REBA016.description>[PAWN_nameDef] is a black market butcher. [PAWN_pronoun] deals with reclaiming organs from illegal sources for a variety of purposes. [PAWN_nameDef] has traveled to the outer rim to avoid the long reach of the law.</REBA016.description>
+  <!-- EN: Black market butcher -->
+  <REBA016.title>Black market butcher</REBA016.title>
+  <!-- EN: Black market butcher -->
+  <REBA016.titleShort>Black market butcher</REBA016.titleShort>
+  <!-- EN: [PAWN_nameDef] is a field medic, able to save lives in even the roughest environments. There are few proper hospitals in the outer rim so [PAWN_nameDef] has learned to triage and treat patients in the field. Due to the lawlessness of the outer rim [PAWN_pronoun] has also learned how to use a gun. -->
+  <REBA017.description>[PAWN_nameDef] is a field medic, able to save lives in even the roughest environments. There are few proper hospitals in the outer rim so [PAWN_nameDef] has learned to triage and treat patients in the field. Due to the lawlessness of the outer rim [PAWN_pronoun] has also learned how to use a gun.</REBA017.description>
+  <!-- EN: Field medic -->
+  <REBA017.title>Field medic</REBA017.title>
+  <!-- EN: Field medic -->
+  <REBA017.titleShort>Field medic</REBA017.titleShort>
+  <!-- EN: [PAWN_nameDef] is fungus cultivator, a grower of food and medicine for his caveworld. [PAWN_pronoun] knows which mushrooms heal, which mushrooms are tasty and which mushrooms kill. -->
+  <REBA018.description>[PAWN_nameDef] is fungus cultivator, a grower of food and medicine for his caveworld. [PAWN_pronoun] knows which mushrooms heal, which mushrooms are tasty and which mushrooms kill.</REBA018.description>
+  <!-- EN: Fungus cultivator -->
+  <REBA018.title>Fungus cultivator</REBA018.title>
+  <!-- EN: Fungus cultivator -->
+  <REBA018.titleShort>Fungus cultivator</REBA018.titleShort>
+  <!-- EN: [PAWN_nameDef] is a tribal weaver. While [PAWN_possessive] crafts are primitive nobody can deny [PAWN_possessive] artistic talents. -->
+  <REBA019.description>[PAWN_nameDef] is a tribal weaver. While [PAWN_possessive] crafts are primitive nobody can deny [PAWN_possessive] artistic talents.</REBA019.description>
+  <!-- EN: Weaver -->
+  <REBA019.title>Weaver</REBA019.title>
+  <!-- EN: Weaver -->
+  <REBA019.titleShort>Weaver</REBA019.titleShort>
+  <!-- EN: [PAWN_nameDef] is medieval sculptor. [PAWN_pronoun] assists in the building of grand buildings and [PAWN_possessive] statues are famous across [PAWN_possessive] home world. Now [PAWN_nameDef] tours the outer rim leaving [PAWN_possessive] mark on this wild, untamed place. -->
+  <REBA020.description>[PAWN_nameDef] is medieval sculptor. [PAWN_pronoun] assists in the building of grand buildings and [PAWN_possessive] statues are famous across [PAWN_possessive] home world. Now [PAWN_nameDef] tours the outer rim leaving [PAWN_possessive] mark on this wild, untamed place.</REBA020.description>
+  <!-- EN: Medieval sculptor -->
+  <REBA020.title>Medieval sculptor</REBA020.title>
+  <!-- EN: Medieval sculptor -->
+  <REBA020.titleShort>Medieval sculptor</REBA020.titleShort>
+  <!-- EN: [PAWN_nameDef] is glitterworld holographic designer. [PAWN_pronoun] creates amazing holographic pieces of art that are famous across the galaxy. Looking for inspiration [PAWN_nameDef] has traveled to the outer rim. -->
+  <REBA021.description>[PAWN_nameDef] is glitterworld holographic designer. [PAWN_pronoun] creates amazing holographic pieces of art that are famous across the galaxy. Looking for inspiration [PAWN_nameDef] has traveled to the outer rim.</REBA021.description>
+  <!-- EN: Holographic designer -->
+  <REBA021.title>Holographic designer</REBA021.title>
+  <!-- EN: Holographic designer -->
+  <REBA021.titleShort>Holographic designer</REBA021.titleShort>
+  <!-- EN: [PAWN_nameDef] is an urbworld graffiti artist. [PAWN_pronoun] is almost as skilled with a gun as [PAWN_pronoun] is with a spray-can as tagging rival territory is dangerous business. [PAWN_nameDef] has decided to leave his mark on the outer rim. -->
+  <REBA022.description>[PAWN_nameDef] is an urbworld graffiti artist. [PAWN_pronoun] is almost as skilled with a gun as [PAWN_pronoun] is with a spray-can as tagging rival territory is dangerous business. [PAWN_nameDef] has decided to leave his mark on the outer rim.</REBA022.description>
+  <!-- EN: Graffiti artist -->
+  <REBA022.title>Graffiti artist</REBA022.title>
+  <!-- EN: Graffiti artist -->
+  <REBA022.titleShort>Graffiti artist</REBA022.titleShort>
+  <!-- EN: [PAWN_nameDef] is an taxidermist in the outer rim. [PAWN_pronoun] takes animal carcasses and turns them into stunning works of art. -->
+  <REBA023.description>[PAWN_nameDef] is an taxidermist in the outer rim. [PAWN_pronoun] takes animal carcasses and turns them into stunning works of art.</REBA023.description>
+  <!-- EN: Taxidermist -->
+  <REBA023.title>Taxidermist</REBA023.title>
+  <!-- EN: Taxidermist -->
+  <REBA023.titleShort>Taxidermist</REBA023.titleShort>
+  <!-- EN: [PAWN_nameDef] is a cave painter. [PAWN_pronoun] spent [PAWN_possessive] time creating brilliant pieces of art on his caveworld. However only very few of the inhabitants of his home world has an appreciation for art. [PAWN_nameDef] left for the outer rim to seize the acknowledgment for [PAWN_possessive] craft [PAWN_pronoun] has always known [PAWN_pronoun] deserves. -->
+  <REBA024.description>[PAWN_nameDef] is a cave painter. [PAWN_pronoun] spent [PAWN_possessive] time creating brilliant pieces of art on his caveworld. However only very few of the inhabitants of his home world has an appreciation for art. [PAWN_nameDef] left for the outer rim to seize the acknowledgment for [PAWN_possessive] craft [PAWN_pronoun] has always known [PAWN_pronoun] deserves.</REBA024.description>
+  <!-- EN: Cave painter -->
+  <REBA024.title>Cave painter</REBA024.title>
+  <!-- EN: Cave painter -->
+  <REBA024.titleShort>Cave painter</REBA024.titleShort>
+  <!-- EN: [PAWN_nameDef] was a hunter and gatherer responsible for supplying [PAWN_possessive] tribe with a diverse range of foods. One day [PAWN_pronoun] returned to find [PAWN_possessive] people slaughtered by raiders. Now [PAWN_nameDef] seeks vengeance. -->
+  <REBA025.description>[PAWN_nameDef] was a hunter and gatherer responsible for supplying [PAWN_possessive] tribe with a diverse range of foods. One day [PAWN_pronoun] returned to find [PAWN_possessive] people slaughtered by raiders. Now [PAWN_nameDef] seeks vengeance.</REBA025.description>
+  <!-- EN: Hunter and gatherer -->
+  <REBA025.title>Hunter and gatherer</REBA025.title>
+  <!-- EN: Hunter and gatherer -->
+  <REBA025.titleShort>Hunter and gatherer</REBA025.titleShort>
+  <!-- EN: [PAWN_nameDef] was a medieval farmer. Although [PAWN_pronoun] was a very capable grower [PAWN_nameDef] always knew that [PAWN_pronoun] was destined for more. Now [PAWN_pronoun] lends [PAWN_possessive] hands in taming the wild outer rim. -->
+  <REBA026.description>[PAWN_nameDef] was a medieval farmer. Although [PAWN_pronoun] was a very capable grower [PAWN_nameDef] always knew that [PAWN_pronoun] was destined for more. Now [PAWN_pronoun] lends [PAWN_possessive] hands in taming the wild outer rim.</REBA026.description>
+  <!-- EN: Medieval farmer -->
+  <REBA026.title>Medieval farmer</REBA026.title>
+  <!-- EN: Medieval farmer -->
+  <REBA026.titleShort>Medieval farmer</REBA026.titleShort>
+  <!-- EN: [PAWN_nameDef] was a horticulture expert on [PAWN_possessive] glitterworld. Creating gardens was as much an art-form there as a practical pursuit. Now [PAWN_nameDef] seeks to spread beauty and greenery across the outer rim. -->
+  <REBA027.description>[PAWN_nameDef] was a horticulture expert on [PAWN_possessive] glitterworld. Creating gardens was as much an art-form there as a practical pursuit. Now [PAWN_nameDef] seeks to spread beauty and greenery across the outer rim.</REBA027.description>
+  <!-- EN: Horticulture expert -->
+  <REBA027.title>Horticulture expert</REBA027.title>
+  <!-- EN: Horticulture expert -->
+  <REBA027.titleShort>Horticulture expert</REBA027.titleShort>
+  <!-- EN: [PAWN_nameDef] was one of the best smokeleaf cultivators on [PAWN_possessive] crowded urbworld. Eventually a rival organization threatened his life and he fled to the outer rim. -->
+  <REBA028.description>[PAWN_nameDef] was one of the best smokeleaf cultivators on [PAWN_possessive] crowded urbworld. Eventually a rival organization threatened his life and he fled to the outer rim.</REBA028.description>
+  <!-- EN: Smokeleaf cultivator -->
+  <REBA028.title>Smokeleaf cultivator</REBA028.title>
+  <!-- EN: Smokeleaf cultivator -->
+  <REBA028.titleShort>Smokeleaf cultivator</REBA028.titleShort>
+  <!-- EN: Farming the outer rim is as dangerous an occupation as any. [PAWN_nameDef] has survived animal attacks, raiders and crop failures. [PAWN_pronoun] continues to try to eek out a living on this harsh planet. -->
+  <REBA029.description>Farming the outer rim is as dangerous an occupation as any. [PAWN_nameDef] has survived animal attacks, raiders and crop failures. [PAWN_pronoun] continues to try to eek out a living on this harsh planet.</REBA029.description>
+  <!-- EN: Frontier farmer -->
+  <REBA029.title>Frontier farmer</REBA029.title>
+  <!-- EN: Frontier farmer -->
+  <REBA029.titleShort>Frontier farmer</REBA029.titleShort>
+  <!-- EN: Farms on a caveworld look very different to farms on most other worlds. Caveworld growers like [PAWN_nameDef] need to be able to grow a large variety of lichens and mosses to breed bugs for protein. [PAWN_nameDef] has decided to explore the outer rim to find new plants and insects to take back to [PAWN_possessive] home world one day. -->
+  <REBA030.description>Farms on a caveworld look very different to farms on most other worlds. Caveworld growers like [PAWN_nameDef] need to be able to grow a large variety of lichens and mosses to breed bugs for protein. [PAWN_nameDef] has decided to explore the outer rim to find new plants and insects to take back to [PAWN_possessive] home world one day.</REBA030.description>
+  <!-- EN: Bug breeder -->
+  <REBA030.title>Bug breeder</REBA030.title>
+  <!-- EN: Bug breeder -->
+  <REBA030.titleShort>Bug breeder</REBA030.titleShort>
+  <!-- EN: [PAWN_nameDef] is a tribal scout. [PAWN_pronoun] is responsible for searching out new lands and new ideas, before bringing them back to the tribe. [PAWN_pronoun] has learned a variety of skills to act independently while away from [PAWN_possessive] tribe. One day [PAWN_nameDef] will return to [PAWN_possessive] tribal world with [PAWN_possessive] new knowledge. -->
+  <REBA031.description>[PAWN_nameDef] is a tribal scout. [PAWN_pronoun] is responsible for searching out new lands and new ideas, before bringing them back to the tribe. [PAWN_pronoun] has learned a variety of skills to act independently while away from [PAWN_possessive] tribe. One day [PAWN_nameDef] will return to [PAWN_possessive] tribal world with [PAWN_possessive] new knowledge.</REBA031.description>
+  <!-- EN: Tribal scout -->
+  <REBA031.title>Tribal scout</REBA031.title>
+  <!-- EN: Tribal scout -->
+  <REBA031.titleShort>Tribal scout</REBA031.titleShort>
+  <!-- EN: [PAWN_nameDef] constantly pushed the boundaries of scientific achievement on [PAWN_possessive] home world, inventing many ingenious contraptions. Eventually though [PAWN_pronoun] knew that in order to learn more he would have to pack up [PAWN_possessive] workshop and travel the stars. Now [PAWN_nameDef] experiments in the outer rim. -->
+  <REBA032.description>[PAWN_nameDef] constantly pushed the boundaries of scientific achievement on [PAWN_possessive] home world, inventing many ingenious contraptions. Eventually though [PAWN_pronoun] knew that in order to learn more he would have to pack up [PAWN_possessive] workshop and travel the stars. Now [PAWN_nameDef] experiments in the outer rim.</REBA032.description>
+  <!-- EN: Medieval inventor -->
+  <REBA032.title>Medieval inventor</REBA032.title>
+  <!-- EN: Medieval inventor -->
+  <REBA032.titleShort>Medieval inventor</REBA032.titleShort>
+  <!-- EN: [PAWN_nameDef] has a very deep knowledge of complex scientific concepts. A true genius, [PAWN_pronoun] has decided that in order to further [PAWN_possessive] knowledge [PAWN_pronoun] needs to explore the very limits of civilization. Whether [PAWN_nameDef] will survive or not, only time will tell. -->
+  <REBA033.description>[PAWN_nameDef] has a very deep knowledge of complex scientific concepts. A true genius, [PAWN_pronoun] has decided that in order to further [PAWN_possessive] knowledge [PAWN_pronoun] needs to explore the very limits of civilization. Whether [PAWN_nameDef] will survive or not, only time will tell.</REBA033.description>
+  <!-- EN: Theoretical scientist -->
+  <REBA033.title>Theoretical scientist</REBA033.title>
+  <!-- EN: Theoretical scientist -->
+  <REBA033.titleShort>Theoretical scientist</REBA033.titleShort>
+  <!-- EN: [PAWN_nameDef] was responsible for the creation of many medical and recreational drugs on [PAWN_possessive] crowded urbworld. Eventually [PAWN_nameDef] decided to explore the outer rim to find even more potent reagents for [PAWN_possessive] concoctions. -->
+  <REBA034.description>[PAWN_nameDef] was responsible for the creation of many medical and recreational drugs on [PAWN_possessive] crowded urbworld. Eventually [PAWN_nameDef] decided to explore the outer rim to find even more potent reagents for [PAWN_possessive] concoctions.</REBA034.description>
+  <!-- EN: Chemist -->
+  <REBA034.title>Chemist</REBA034.title>
+  <!-- EN: Chemist -->
+  <REBA034.titleShort>Chemist</REBA034.titleShort>
+  <!-- EN: The resources required to fabricate new technology are sometimes hard to come by in the outer rim. [PAWN_nameDef] takes existing inventions and tinkers with them to discover improvements. [PAWN_pronoun] has almost blown [PAWN_objective]self up on multiple occasions. -->
+  <REBA035.description>The resources required to fabricate new technology are sometimes hard to come by in the outer rim. [PAWN_nameDef] takes existing inventions and tinkers with them to discover improvements. [PAWN_pronoun] has almost blown [PAWN_objective]self up on multiple occasions.</REBA035.description>
+  <!-- EN: Tinkerer -->
+  <REBA035.title>Tinkerer</REBA035.title>
+  <!-- EN: Tinkerer -->
+  <REBA035.titleShort>Tinkerer</REBA035.titleShort>
+  <!-- EN: [PAWN_nameDef] was responsible for researching the different rock and mineral types on [PAWN_possessive] caveworld. Now [PAWN_pronoun] explores the geology of the outer rim. -->
+  <REBA036.description>[PAWN_nameDef] was responsible for researching the different rock and mineral types on [PAWN_possessive] caveworld. Now [PAWN_pronoun] explores the geology of the outer rim.</REBA036.description>
+  <!-- EN: Geologist -->
+  <REBA036.title>Geologist</REBA036.title>
+  <!-- EN: Geologist -->
+  <REBA036.titleShort>Geologist</REBA036.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tribal digger. [PAWN_pronoun] was responsible for moving large amounts of earth in order to create primitive buildings or farmland. -->
+  <REBA037.description>[PAWN_nameDef] was a tribal digger. [PAWN_pronoun] was responsible for moving large amounts of earth in order to create primitive buildings or farmland.</REBA037.description>
+  <!-- EN: Digger -->
+  <REBA037.title>Digger</REBA037.title>
+  <!-- EN: Digger -->
+  <REBA037.titleShort>Digger</REBA037.titleShort>
+  <!-- EN: [PAWN_nameDef] was a miner on his medieval home world. [PAWN_pronoun] is comfortable deep within the earth, pick in hand. [PAWN_nameDef] has traveled to the outer rim to strike it rich. -->
+  <REBA038.description>[PAWN_nameDef] was a miner on his medieval home world. [PAWN_pronoun] is comfortable deep within the earth, pick in hand. [PAWN_nameDef] has traveled to the outer rim to strike it rich.</REBA038.description>
+  <!-- EN: Medieval miner -->
+  <REBA038.title>Medieval miner</REBA038.title>
+  <!-- EN: Medieval miner -->
+  <REBA038.titleShort>Medieval miner</REBA038.titleShort>
+  <!-- EN: [PAWN_nameDef] was an asteroid excavator, shattering asteroids for [PAWN_possessive] glitterworld to get to the precious resources inside. Now [PAWN_nameDef] uses [PAWN_possessive] knowledge of minerals to exploit planets on the outer rim. -->
+  <REBA039.description>[PAWN_nameDef] was an asteroid excavator, shattering asteroids for [PAWN_possessive] glitterworld to get to the precious resources inside. Now [PAWN_nameDef] uses [PAWN_possessive] knowledge of minerals to exploit planets on the outer rim.</REBA039.description>
+  <!-- EN: Asteroid excavator -->
+  <REBA039.title>Asteroid excavator</REBA039.title>
+  <!-- EN: Asteroid excavator -->
+  <REBA039.titleShort>Asteroid excavator</REBA039.titleShort>
+  <!-- EN: [PAWN_nameDef] was a sewer runner on [PAWN_possessive] crowded urbworld. [PAWN_pronoun] ran through the underground tunnels underneath the cities exploring. Now [PAWN_pronoun] uses [PAWN_possessive] talents to help explore the outer rim. -->
+  <REBA040.description>[PAWN_nameDef] was a sewer runner on [PAWN_possessive] crowded urbworld. [PAWN_pronoun] ran through the underground tunnels underneath the cities exploring. Now [PAWN_pronoun] uses [PAWN_possessive] talents to help explore the outer rim.</REBA040.description>
+  <!-- EN: Sewer runner -->
+  <REBA040.title>Sewer runner</REBA040.title>
+  <!-- EN: Sewer runner -->
+  <REBA040.titleShort>Sewer runner</REBA040.titleShort>
+  <!-- EN: [PAWN_nameDef] is a prospector of the outer rim. [PAWN_possessive] job is to find and exploit valuable mineral deposits. -->
+  <REBA041.description>[PAWN_nameDef] is a prospector of the outer rim. [PAWN_possessive] job is to find and exploit valuable mineral deposits.</REBA041.description>
+  <!-- EN: Prospector -->
+  <REBA041.title>Prospector</REBA041.title>
+  <!-- EN: Prospector -->
+  <REBA041.titleShort>Prospector</REBA041.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tunneler on his caveworld home. [PAWN_pronoun] was a natural at tunneling beneath the surface and scouting out valuable minerals. Now [PAWN_nameDef] lends his experience to colonies on the outer rim for coin. -->
+  <REBA042.description>[PAWN_nameDef] was a tunneler on his caveworld home. [PAWN_pronoun] was a natural at tunneling beneath the surface and scouting out valuable minerals. Now [PAWN_nameDef] lends his experience to colonies on the outer rim for coin.</REBA042.description>
+  <!-- EN: Tunneler -->
+  <REBA042.title>Tunneler</REBA042.title>
+  <!-- EN: Tunneler -->
+  <REBA042.titleShort>Tunneler</REBA042.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tribal fire tender. The position of fire tender is highly valued in tribal society for fires multitude of uses. -->
+  <REBA043.description>[PAWN_nameDef] was a tribal fire tender. The position of fire tender is highly valued in tribal society for fires multitude of uses.</REBA043.description>
+  <!-- EN: Fire tender -->
+  <REBA043.title>Fire tender</REBA043.title>
+  <!-- EN: Fire tender -->
+  <REBA043.titleShort>Fire tender</REBA043.titleShort>
+  <!-- EN: [PAWN_nameDef] was a medieval butcher. [PAWN_pronoun] knows [PAWN_possessive] way around a cleaver which is both useful in the kitchen and on the battlefield. -->
+  <REBA044.description>[PAWN_nameDef] was a medieval butcher. [PAWN_pronoun] knows [PAWN_possessive] way around a cleaver which is both useful in the kitchen and on the battlefield.</REBA044.description>
+  <!-- EN: Medieval butcher -->
+  <REBA044.title>Medieval butcher</REBA044.title>
+  <!-- EN: Medieval butcher -->
+  <REBA044.titleShort>Medieval butcher</REBA044.titleShort>
+  <!-- EN: [PAWN_nameDef] was a gastronomical artisan. [PAWN_pronoun] turned cooking into an art form on [PAWN_possessive] glitterworld home. -->
+  <REBA045.description>[PAWN_nameDef] was a gastronomical artisan. [PAWN_pronoun] turned cooking into an art form on [PAWN_possessive] glitterworld home.</REBA045.description>
+  <!-- EN: Gastronomical artisan -->
+  <REBA045.title>Gastronomical artisan</REBA045.title>
+  <!-- EN: Gastronomical artisan -->
+  <REBA045.titleShort>Gastronomical artisan</REBA045.titleShort>
+  <!-- EN: [PAWN_nameDef] was an urbworld brewer. [PAWN_pronoun] knows how to make a variety of different alcoholic beverages, a highly sought after skill in the outer rim. -->
+  <REBA046.description>[PAWN_nameDef] was an urbworld brewer. [PAWN_pronoun] knows how to make a variety of different alcoholic beverages, a highly sought after skill in the outer rim.</REBA046.description>
+  <!-- EN: Brewer -->
+  <REBA046.title>Brewer</REBA046.title>
+  <!-- EN: Brewer -->
+  <REBA046.titleShort>Brewer</REBA046.titleShort>
+  <!-- EN: [PAWN_nameDef] is a frontier chef in the outer rim. [PAWN_pronoun] cooks delicious meals, just don't ask what's in them! -->
+  <REBA047.description>[PAWN_nameDef] is a frontier chef in the outer rim. [PAWN_pronoun] cooks delicious meals, just don't ask what's in them!</REBA047.description>
+  <!-- EN: Frontier chef -->
+  <REBA047.title>Frontier chef</REBA047.title>
+  <!-- EN: Frontier chef -->
+  <REBA047.titleShort>Frontier chef</REBA047.titleShort>
+  <!-- EN: [PAWN_nameDef] was a nutrient paste cook for [PAWN_possessive] caveworld home. [PAWN_pronoun] knows how to cook meals from limited ingredients that while not delicious can sustain a person. -->
+  <REBA048.description>[PAWN_nameDef] was a nutrient paste cook for [PAWN_possessive] caveworld home. [PAWN_pronoun] knows how to cook meals from limited ingredients that while not delicious can sustain a person.</REBA048.description>
+  <!-- EN: Nutrient paste cook -->
+  <REBA048.title>Nutrient paste cook</REBA048.title>
+  <!-- EN: Nutrient paste cook -->
+  <REBA048.titleShort>Nutrient paste cook</REBA048.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tribal hut maker. [PAWN_pronoun] explores the rimworld in the search of better building techniques for [PAWN_possessive] tribe. -->
+  <REBA049.description>[PAWN_nameDef] was a tribal hut maker. [PAWN_pronoun] explores the rimworld in the search of better building techniques for [PAWN_possessive] tribe.</REBA049.description>
+  <!-- EN: Hut maker -->
+  <REBA049.title>Hut maker</REBA049.title>
+  <!-- EN: Hut maker -->
+  <REBA049.titleShort>Hut maker</REBA049.titleShort>
+  <!-- EN: [PAWN_nameDef] was a medieval mason. [PAWN_pronoun] knows how to construct beautiful stone structures. -->
+  <REBA050.description>[PAWN_nameDef] was a medieval mason. [PAWN_pronoun] knows how to construct beautiful stone structures.</REBA050.description>
+  <!-- EN: Medieval mason -->
+  <REBA050.title>Medieval mason</REBA050.title>
+  <!-- EN: Medieval mason -->
+  <REBA050.titleShort>Medieval mason</REBA050.titleShort>
+  <!-- EN: [PAWN_nameDef] was a high rise architect. [PAWN_pronoun] has an excellent knowledge of engineering. -->
+  <REBA051.description>[PAWN_nameDef] was a high rise architect. [PAWN_pronoun] has an excellent knowledge of engineering.</REBA051.description>
+  <!-- EN: High rise architect -->
+  <REBA051.title>High rise architect</REBA051.title>
+  <!-- EN: High rise architect -->
+  <REBA051.titleShort>High rise architect</REBA051.titleShort>
+  <!-- EN: [PAWN_nameDef] was an urban planner. [PAWN_pronoun] has an excellent knowledge of construction. -->
+  <REBA052.description>[PAWN_nameDef] was an urban planner. [PAWN_pronoun] has an excellent knowledge of construction.</REBA052.description>
+  <!-- EN: Urban planner -->
+  <REBA052.title>Urban planner</REBA052.title>
+  <!-- EN: Urban planner -->
+  <REBA052.titleShort>Urban planner</REBA052.titleShort>
+  <!-- EN: [PAWN_nameDef] is a settler on the outer rim. [PAWN_pronoun] knows a variety of useful skills needed to tame this wild land. -->
+  <REBA053.description>[PAWN_nameDef] is a settler on the outer rim. [PAWN_pronoun] knows a variety of useful skills needed to tame this wild land.</REBA053.description>
+  <!-- EN: Settler -->
+  <REBA053.title>Settler</REBA053.title>
+  <!-- EN: Settler -->
+  <REBA053.titleShort>Settler</REBA053.titleShort>
+  <!-- EN: [PAWN_nameDef] was a warren builder on his caveworld home. [PAWN_pronoun] knows how to dig homes out of the very earth. -->
+  <REBA054.description>[PAWN_nameDef] was a warren builder on his caveworld home. [PAWN_pronoun] knows how to dig homes out of the very earth.</REBA054.description>
+  <!-- EN: Warren builder -->
+  <REBA054.title>Warren builder</REBA054.title>
+  <!-- EN: Warren builder -->
+  <REBA054.titleShort>Warren builder</REBA054.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tribal tool maker. [PAWN_pronoun] has the knowledge to create useful tools. -->
+  <REBA055.description>[PAWN_nameDef] was a tribal tool maker. [PAWN_pronoun] has the knowledge to create useful tools.</REBA055.description>
+  <!-- EN: Tool maker -->
+  <REBA055.title>Tool maker</REBA055.title>
+  <!-- EN: Tool maker -->
+  <REBA055.titleShort>Tool maker</REBA055.titleShort>
+  <!-- EN: [PAWN_nameDef] is a medieval blacksmith. [PAWN_pronoun] knows how to forge both weapons and armor. -->
+  <REBA056.description>[PAWN_nameDef] is a medieval blacksmith. [PAWN_pronoun] knows how to forge both weapons and armor.</REBA056.description>
+  <!-- EN: Medieval blacksmith -->
+  <REBA056.title>Medieval blacksmith</REBA056.title>
+  <!-- EN: Medieval blacksmith -->
+  <REBA056.titleShort>Medieval blacksmith</REBA056.titleShort>
+  <!-- EN: [PAWN_nameDef] was a roboticist. [PAWN_pronoun] worked on creating complex robots for a variety of different purposes. -->
+  <REBA057.description>[PAWN_nameDef] was a roboticist. [PAWN_pronoun] worked on creating complex robots for a variety of different purposes.</REBA057.description>
+  <!-- EN: Roboticist -->
+  <REBA057.title>Roboticist</REBA057.title>
+  <!-- EN: Roboticist -->
+  <REBA057.titleShort>Roboticist</REBA057.titleShort>
+  <!-- EN: [PAWN_nameDef] was an urbworld forger. [PAWN_pronoun] can forge a variety of different goods. -->
+  <REBA058.description>[PAWN_nameDef] was an urbworld forger. [PAWN_pronoun] can forge a variety of different goods.</REBA058.description>
+  <!-- EN: Forger -->
+  <REBA058.title>Forger</REBA058.title>
+  <!-- EN: Forger -->
+  <REBA058.titleShort>Forger</REBA058.titleShort>
+  <!-- EN: [PAWN_nameDef] is a gunsmith. [PAWN_pronoun] can forge a variety of different guns. -->
+  <REBA059.description>[PAWN_nameDef] is a gunsmith. [PAWN_pronoun] can forge a variety of different guns.</REBA059.description>
+  <!-- EN: Gunsmith -->
+  <REBA059.title>Gunsmith</REBA059.title>
+  <!-- EN: Gunsmith -->
+  <REBA059.titleShort>Gunsmith</REBA059.titleShort>
+  <!-- EN: [PAWN_nameDef] is a caveworld artificer. [PAWN_pronoun] can create a variety of different tools and weapons out of exotic materials. -->
+  <REBA060.description>[PAWN_nameDef] is a caveworld artificer. [PAWN_pronoun] can create a variety of different tools and weapons out of exotic materials.</REBA060.description>
+  <!-- EN: Artificer -->
+  <REBA060.title>Artificer</REBA060.title>
+  <!-- EN: Artificer -->
+  <REBA060.titleShort>Artificer</REBA060.titleShort>
+  <!-- EN: [PAWN_nameDef] was a tribal herder. [PAWN_pronoun] knows how to tame and take care of animals. -->
+  <REBA061.description>[PAWN_nameDef] was a tribal herder. [PAWN_pronoun] knows how to tame and take care of animals.</REBA061.description>
+  <!-- EN: Herder -->
+  <REBA061.title>Herder</REBA061.title>
+  <!-- EN: Herder -->
+  <REBA061.titleShort>Herder</REBA061.titleShort>
+  <!-- EN: [PAWN_nameDef] was a medieval stable master. [PAWN_pronoun] knows how to breed and take care of animals. -->
+  <REBA062.description>[PAWN_nameDef] was a medieval stable master. [PAWN_pronoun] knows how to breed and take care of animals.</REBA062.description>
+  <!-- EN: Stable master -->
+  <REBA062.title>Stable master</REBA062.title>
+  <!-- EN: Stable master -->
+  <REBA062.titleShort>Stable master</REBA062.titleShort>
+  <!-- EN: [PAWN_nameDef] is a glitterworld zoologist. [PAWN_pronoun] wanders the outer rim documenting the various exotic animals. -->
+  <REBA063.description>[PAWN_nameDef] is a glitterworld zoologist. [PAWN_pronoun] wanders the outer rim documenting the various exotic animals.</REBA063.description>
+  <!-- EN: Zoologist -->
+  <REBA063.title>Zoologist</REBA063.title>
+  <!-- EN: Zoologist -->
+  <REBA063.titleShort>Zoologist</REBA063.titleShort>
+  <!-- EN: [PAWN_nameDef] was an illegal urbworld breeder. [PAWN_pronoun] bred exotic and dangerous animals for a premium. -->
+  <REBA064.description>[PAWN_nameDef] was an illegal urbworld breeder. [PAWN_pronoun] bred exotic and dangerous animals for a premium.</REBA064.description>
+  <!-- EN: Illegal breeder -->
+  <REBA064.title>Illegal breeder</REBA064.title>
+  <!-- EN: Illegal breeder -->
+  <REBA064.titleShort>Illegal breeder</REBA064.titleShort>
+  <!-- EN: [PAWN_nameDef] is an outer rim rancher. [PAWN_pronoun] breeds and takes care of exotic rimworld animals. -->
+  <REBA065.description>[PAWN_nameDef] is an outer rim rancher. [PAWN_pronoun] breeds and takes care of exotic rimworld animals.</REBA065.description>
+  <!-- EN: Rancher -->
+  <REBA065.title>Rancher</REBA065.title>
+  <!-- EN: Rancher -->
+  <REBA065.titleShort>Rancher</REBA065.titleShort>
+  <!-- EN: [PAWN_nameDef] was a caveworld mole rat farmer. [PAWN_pronoun] bred moles in the depths of the earth to feed [PAWN_possessive] people. -->
+  <REBA066.description>[PAWN_nameDef] was a caveworld mole rat farmer. [PAWN_pronoun] bred moles in the depths of the earth to feed [PAWN_possessive] people.</REBA066.description>
+  <!-- EN: Mole rat farmer -->
+  <REBA066.title>Mole rat farmer</REBA066.title>
+  <!-- EN: Mole rat farmer -->
+  <REBA066.titleShort>Mole rat farmer</REBA066.titleShort>
+  <!-- EN: [PAWN_nameDef] is a tribal warrior. [PAWN_pronoun] is fierce looking with [PAWN_possessive] tribal tattoos and [PAWN_pronoun] knows how to use a variety of melee weapons to maim and kill. -->
+  <REBA067.description>[PAWN_nameDef] is a tribal warrior. [PAWN_pronoun] is fierce looking with [PAWN_possessive] tribal tattoos and [PAWN_pronoun] knows how to use a variety of melee weapons to maim and kill.</REBA067.description>
+  <!-- EN: Tribal warrior -->
+  <REBA067.title>Tribal warrior</REBA067.title>
+  <!-- EN: Tribal warrior -->
+  <REBA067.titleShort>Tribal warrior</REBA067.titleShort>
+  <!-- EN: [PAWN_nameDef] is a medieval knight. [PAWN_pronoun] believes in chivalry and honor. [PAWN_nameDef] has traveled to the outer rim to obtain the glory [PAWN_pronoun] knows is [PAWN_possessive] destiny. -->
+  <REBA068.description>[PAWN_nameDef] is a medieval knight. [PAWN_pronoun] believes in chivalry and honor. [PAWN_nameDef] has traveled to the outer rim to obtain the glory [PAWN_pronoun] knows is [PAWN_possessive] destiny.</REBA068.description>
+  <!-- EN: Medieval knight -->
+  <REBA068.title>Medieval knight</REBA068.title>
+  <!-- EN: Medieval knight -->
+  <REBA068.titleShort>Medieval knight</REBA068.titleShort>
+  <!-- EN: [PAWN_nameDef] is a glitterworld peacekeeper. [PAWN_pronoun] is in charge of keeping the peace all over the galaxy. Right now [PAWN_nameDef] is stationed in the outer rim. -->
+  <REBA069.description>[PAWN_nameDef] is a glitterworld peacekeeper. [PAWN_pronoun] is in charge of keeping the peace all over the galaxy. Right now [PAWN_nameDef] is stationed in the outer rim.</REBA069.description>
+  <!-- EN: Peacekeeper -->
+  <REBA069.title>Peacekeeper</REBA069.title>
+  <!-- EN: Peacekeeper -->
+  <REBA069.titleShort>Peacekeeper</REBA069.titleShort>
+  <!-- EN: [PAWN_nameDef] was an urbworld member of the riot police. [PAWN_pronoun] was in charge of ensuring that the people of [PAWN_possessive] urbworld respected the law. -->
+  <REBA070.description>[PAWN_nameDef] was an urbworld member of the riot police. [PAWN_pronoun] was in charge of ensuring that the people of [PAWN_possessive] urbworld respected the law.</REBA070.description>
+  <!-- EN: Riot police -->
+  <REBA070.title>Riot police</REBA070.title>
+  <!-- EN: Riot police -->
+  <REBA070.titleShort>Riot police</REBA070.titleShort>
+  <!-- EN: [PAWN_nameDef] is a bar owner in the outer rim. [PAWN_pronoun] knows how to cook and how to crack the occasional raider skull. -->
+  <REBA071.description>[PAWN_nameDef] is a bar owner in the outer rim. [PAWN_pronoun] knows how to cook and how to crack the occasional raider skull.</REBA071.description>
+  <!-- EN: Bar owner -->
+  <REBA071.title>Bar owner</REBA071.title>
+  <!-- EN: Bar owner -->
+  <REBA071.titleShort>Bar owner</REBA071.titleShort>
+  <!-- EN: [PAWN_nameDef] was a strike breaker on the caveworld [PAWN_pronoun] called home. [PAWN_pronoun] learned how to both talk [PAWN_possessive] way out of trouble and how to crack some skulls when talking didn't work. -->
+  <REBA072.description>[PAWN_nameDef] was a strike breaker on the caveworld [PAWN_pronoun] called home. [PAWN_pronoun] learned how to both talk [PAWN_possessive] way out of trouble and how to crack some skulls when talking didn't work.</REBA072.description>
+  <!-- EN: Strike breaker -->
+  <REBA072.title>Strike breaker</REBA072.title>
+  <!-- EN: Strike breaker -->
+  <REBA072.titleShort>Strike breaker</REBA072.titleShort>
+</LanguageData>

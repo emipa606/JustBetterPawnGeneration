@@ -16,13 +16,11 @@ internal class NoMoreRandomSkills
             .MinimumSpawnAge;
         foreach (var pawnKindDef in DefDatabase<PawnKindDef>.AllDefsListForReading)
         {
-            // Log.Message($"Checking for modextension for {pawnKindDef.defName}");
             if (!pawnKindDef.HasModExtension<AgeLimit>())
             {
                 continue;
             }
 
-            // Log.Message($"Setting age to {spawnAge} for {pawnKindDef.defName}");
             pawnKindDef.minGenerationAge = spawnAge;
         }
     }

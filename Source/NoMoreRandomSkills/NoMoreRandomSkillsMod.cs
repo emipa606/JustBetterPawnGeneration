@@ -12,14 +12,14 @@ internal class NoMoreRandomSkillsMod : Mod
     /// <summary>
     ///     The instance of the settings to be read by the mod
     /// </summary>
-    public static NoMoreRandomSkillsMod instance;
+    public static NoMoreRandomSkillsMod Instance;
 
     private static string currentVersion;
 
     /// <summary>
     ///     The private settings
     /// </summary>
-    public readonly NoMoreRandomSkillsSettings Settings;
+    private readonly NoMoreRandomSkillsSettings settings;
 
     /// <summary>
     ///     Cunstructor
@@ -28,8 +28,8 @@ internal class NoMoreRandomSkillsMod : Mod
     public NoMoreRandomSkillsMod(ModContentPack content)
         : base(content)
     {
-        instance = this;
-        Settings = GetSettings<NoMoreRandomSkillsSettings>();
+        Instance = this;
+        settings = GetSettings<NoMoreRandomSkillsSettings>();
         currentVersion = VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
         var harmonyInstance = new Harmony("com.nomorerandomskills.patch");
         harmonyInstance.PatchAll(Assembly.GetExecutingAssembly());
@@ -43,23 +43,23 @@ internal class NoMoreRandomSkillsMod : Mod
     /// <param name="rect"></param>
     public override void DoSettingsWindowContents(Rect rect)
     {
-        var listing_Standard = new Listing_Standard();
-        listing_Standard.Begin(rect);
-        listing_Standard.Gap();
-        listing_Standard.CheckboxLabeled("REB.OnlyCustomBackstories".Translate(), ref Settings.OnlyCustomBackstories,
+        var listingStandard = new Listing_Standard();
+        listingStandard.Begin(rect);
+        listingStandard.Gap();
+        listingStandard.CheckboxLabeled("REB.OnlyCustomBackstories".Translate(), ref settings.OnlyCustomBackstories,
             "REB.OnlyCustomBackstoriesTT".Translate());
-        listing_Standard.Label("REB.MinimumSpawnAge".Translate(Settings.MinimumSpawnAge), -1,
+        listingStandard.Label("REB.MinimumSpawnAge".Translate(settings.MinimumSpawnAge), -1,
             "REB.MinimumSpawnAgeTT".Translate());
-        listing_Standard.IntAdjuster(ref Settings.MinimumSpawnAge, 1, 1);
+        listingStandard.IntAdjuster(ref settings.MinimumSpawnAge, 1, 1);
         if (currentVersion != null)
         {
-            listing_Standard.Gap();
+            listingStandard.Gap();
             GUI.contentColor = Color.gray;
-            listing_Standard.Label("REB.CurrentModVersion".Translate(currentVersion));
+            listingStandard.Label("REB.CurrentModVersion".Translate(currentVersion));
             GUI.contentColor = Color.white;
         }
 
-        listing_Standard.End();
+        listingStandard.End();
     }
 
     /// <summary>

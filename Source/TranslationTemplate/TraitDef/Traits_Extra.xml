@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: academic -->
+  <Academic.degreeDatas.academic.label>academic</Academic.degreeDatas.academic.label>
+  <!-- EN: [PAWN_nameDef] is a bit of an egg-head. [PAWN_pronoun] is more scientifically minded than most other colonists. -->
+  <Academic.degreeDatas.academic.description>[PAWN_nameDef] is a bit of an egg-head. [PAWN_pronoun] is more scientifically minded than most other colonists.</Academic.degreeDatas.academic.description>
+  <!-- EN: animal whisperer -->
+  <AnimalWhisperer.degreeDatas.animal_whisperer.label>animal whisperer</AnimalWhisperer.degreeDatas.animal_whisperer.label>
+  <!-- EN: [PAWN_nameDef] is a natural at caring for animals. [PAWN_pronoun] always manages to get the most out of livestock. -->
+  <AnimalWhisperer.degreeDatas.animal_whisperer.description>[PAWN_nameDef] is a natural at caring for animals. [PAWN_pronoun] always manages to get the most out of livestock.</AnimalWhisperer.degreeDatas.animal_whisperer.description>
+  <!-- EN: butcher -->
+  <Butcher.degreeDatas.butcher.label>butcher</Butcher.degreeDatas.butcher.label>
+  <!-- EN: [PAWN_nameDef] knows [PAWN_possessive] way around a cleaver. [PAWN_pronoun] can minimize wastage when butchering carcasses. -->
+  <Butcher.degreeDatas.butcher.description>[PAWN_nameDef] knows [PAWN_possessive] way around a cleaver. [PAWN_pronoun] can minimize wastage when butchering carcasses.</Butcher.degreeDatas.butcher.description>
+  <!-- EN: high pain tolerance -->
+  <HighPainTolerance.degreeDatas.high_pain_tolerance.label>high pain tolerance</HighPainTolerance.degreeDatas.high_pain_tolerance.label>
+  <!-- EN: [PAWN_nameDef] has an unusually high tolerance of pain. It takes a lot to bring [PAWN_objective] down. -->
+  <HighPainTolerance.degreeDatas.high_pain_tolerance.description>[PAWN_nameDef] has an unusually high tolerance of pain. It takes a lot to bring [PAWN_objective] down.</HighPainTolerance.degreeDatas.high_pain_tolerance.description>
+  <!-- EN: precise miner -->
+  <PreciseMiner.degreeDatas.precise_miner.label>precise miner</PreciseMiner.degreeDatas.precise_miner.label>
+  <!-- EN: [PAWN_nameDef] is a very good miner. [PAWN_pronoun] is able to extract more from mineral deposits and is faster at mining overall. -->
+  <PreciseMiner.degreeDatas.precise_miner.description>[PAWN_nameDef] is a very good miner. [PAWN_pronoun] is able to extract more from mineral deposits and is faster at mining overall.</PreciseMiner.degreeDatas.precise_miner.description>
+  <!-- EN: radiation resistant -->
+  <RadiationResistant.degreeDatas.radiation_resistant.label>radiation resistant</RadiationResistant.degreeDatas.radiation_resistant.label>
+  <!-- EN: [PAWN_nameDef]'s genetics make [PAWN_objective] more resistant to radiation than normal. -->
+  <RadiationResistant.degreeDatas.radiation_resistant.description>[PAWN_nameDef]'s genetics make [PAWN_objective] more resistant to radiation than normal.</RadiationResistant.degreeDatas.radiation_resistant.description>
+  <!-- EN: sculptor -->
+  <Sculptor.degreeDatas.sculptor.label>sculptor</Sculptor.degreeDatas.sculptor.label>
+  <!-- EN: [PAWN_nameDef] is a natural at carving various materials. -->
+  <Sculptor.degreeDatas.sculptor.description>[PAWN_nameDef] is a natural at carving various materials.</Sculptor.degreeDatas.sculptor.description>
+  <!-- EN: silver-tongued -->
+  <SilverTongued.degreeDatas.silvertongued.label>silver-tongued</SilverTongued.degreeDatas.silvertongued.label>
+  <!-- EN: [PAWN_nameDef] has a silver tongue and [PAWN_pronoun] is good at convincing others to get what [PAWN_pronoun] wants. -->
+  <SilverTongued.degreeDatas.silvertongued.description>[PAWN_nameDef] has a silver tongue and [PAWN_pronoun] is good at convincing others to get what [PAWN_pronoun] wants.</SilverTongued.degreeDatas.silvertongued.description>
+</LanguageData>

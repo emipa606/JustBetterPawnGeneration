@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: [PAWN_nameDef] was born on a caveworld, [PAWN_pronoun] lived inside deep underground tunnels assisting with the extraction of valuable resources. [PAWN_nameDef] knew deep down [PAWN_pronoun] was destined for more and resolved to one day make it to the surface and explore whatever lay beyond. -->
+  <REBC001.description>[PAWN_nameDef] was born on a caveworld, [PAWN_pronoun] lived inside deep underground tunnels assisting with the extraction of valuable resources. [PAWN_nameDef] knew deep down [PAWN_pronoun] was destined for more and resolved to one day make it to the surface and explore whatever lay beyond.</REBC001.description>
+  <!-- EN: Caveworld child -->
+  <REBC001.title>Caveworld child</REBC001.title>
+  <!-- EN: Caveworld child -->
+  <REBC001.titleShort>Caveworld child</REBC001.titleShort>
+  <!-- EN: [PAWN_nameDef] was born on a glitterworld, from an early age [PAWN_pronoun] had everything [PAWN_pronoun] could desire. However as [PAWN_nameDef] began to get older [PAWN_pronoun] began to grow bored. [PAWN_nameDef] resolved that one day [PAWN_pronoun] would leave the glitterworld behind and travel the stars. -->
+  <REBC002.description>[PAWN_nameDef] was born on a glitterworld, from an early age [PAWN_pronoun] had everything [PAWN_pronoun] could desire. However as [PAWN_nameDef] began to get older [PAWN_pronoun] began to grow bored. [PAWN_nameDef] resolved that one day [PAWN_pronoun] would leave the glitterworld behind and travel the stars.</REBC002.description>
+  <!-- EN: Glitterworld child -->
+  <REBC002.title>Glitterworld child</REBC002.title>
+  <!-- EN: Glitterworld child -->
+  <REBC002.titleShort>Glitterworld child</REBC002.titleShort>
+  <!-- EN: [PAWN_nameDef] was born on a medieval world, [PAWN_pronoun] lived a simple yet purposeful life. However [PAWN_nameDef] would lie awake at night sometimes, staring up at the stars. [PAWN_pronoun] knew that [PAWN_possessive] chance for glory lay out there somewhere, upon distant fields and one day [PAWN_pronoun] would claim it. -->
+  <REBC003.description>[PAWN_nameDef] was born on a medieval world, [PAWN_pronoun] lived a simple yet purposeful life. However [PAWN_nameDef] would lie awake at night sometimes, staring up at the stars. [PAWN_pronoun] knew that [PAWN_possessive] chance for glory lay out there somewhere, upon distant fields and one day [PAWN_pronoun] would claim it.</REBC003.description>
+  <!-- EN: Medieval world child -->
+  <REBC003.title>Medieval world child</REBC003.title>
+  <!-- EN: Medieval world child -->
+  <REBC003.titleShort>Medieval world child</REBC003.titleShort>
+  <!-- EN: [PAWN_nameDef] was born on a rimworld, and [PAWN_pronoun] was no stranger to hardship. Despite the many challenges [PAWN_nameDef] loved life on the outer rim and [PAWN_pronoun] became determined to tame a rimworld for [PAWN_possessive] future children to call home. -->
+  <REBC004.description>[PAWN_nameDef] was born on a rimworld, and [PAWN_pronoun] was no stranger to hardship. Despite the many challenges [PAWN_nameDef] loved life on the outer rim and [PAWN_pronoun] became determined to tame a rimworld for [PAWN_possessive] future children to call home.</REBC004.description>
+  <!-- EN: Rimworld child -->
+  <REBC004.title>Rimworld child</REBC004.title>
+  <!-- EN: Rimworld child -->
+  <REBC004.titleShort>Rimworld child</REBC004.titleShort>
+  <!-- EN: [PAWN_nameDef] was born on a tribal world, and [PAWN_pronoun] was raised to know the tribal ways. [PAWN_nameDef] believed [PAWN_pronoun] was destined for greatness and resolved to one day travel into the sky and meet the gods of [PAWN_possessive] tribe. -->
+  <REBC005.description>[PAWN_nameDef] was born on a tribal world, and [PAWN_pronoun] was raised to know the tribal ways. [PAWN_nameDef] believed [PAWN_pronoun] was destined for greatness and resolved to one day travel into the sky and meet the gods of [PAWN_possessive] tribe.</REBC005.description>
+  <!-- EN: Tribal world child -->
+  <REBC005.title>Tribal world child</REBC005.title>
+  <!-- EN: Tribal world child -->
+  <REBC005.titleShort>Tribal world child</REBC005.titleShort>
+  <!-- EN: [PAWN_nameDef] was born on an overcrowded urbworld, from an early age [PAWN_pronoun] had to learn how to fight to survive. As [PAWN_nameDef] got older [PAWN_pronoun] resolved to find a way off this hellhole and strike out, trying [PAWN_possessive] luck in the outer rim. -->
+  <REBC006.description>[PAWN_nameDef] was born on an overcrowded urbworld, from an early age [PAWN_pronoun] had to learn how to fight to survive. As [PAWN_nameDef] got older [PAWN_pronoun] resolved to find a way off this hellhole and strike out, trying [PAWN_possessive] luck in the outer rim.</REBC006.description>
+  <!-- EN: Urbworld child -->
+  <REBC006.title>Urbworld child</REBC006.title>
+  <!-- EN: Urbworld child -->
+  <REBC006.titleShort>Urbworld child</REBC006.titleShort>
+</LanguageData>

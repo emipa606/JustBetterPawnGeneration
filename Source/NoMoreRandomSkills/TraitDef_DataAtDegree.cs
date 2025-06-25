@@ -3,7 +3,7 @@ using RimWorld;
 
 namespace NoMoreRandomSkills;
 
-[HarmonyPatch(typeof(TraitDef), "DataAtDegree")]
+[HarmonyPatch(typeof(TraitDef), nameof(TraitDef.DataAtDegree))]
 public static class TraitDef_DataAtDegree
 {
     public static bool Prefix(TraitDef __instance, int degree, ref TraitDegreeData __result)
